@@ -1,0 +1,36 @@
+---
+title: "Session 7: Digital Inequality and the Digital Divide"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+Does digitalization promote social inclusion, or does it create new forms of inequality and exclusion?
+:::
+
+This session asks whether digitalisation opens up new opportunities for participation or reproduces and deepens existing inequalities.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Digitalisation and social transformation
+- The digital divide and unequal access
+- Digital skills and differences in use
+- Digital participation and social inequality
+- Digital citizenship
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Digital Divide Theory (Jan van Dijk)
+- Digital Inequality
+- Digital Citizenship
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

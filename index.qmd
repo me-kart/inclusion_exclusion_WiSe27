@@ -18,7 +18,7 @@ This script accompanies the seminar. Here you will not only read: you will match
 
 ## How to use this script
 
-The script is organised in seven parts, followed by a practice section. You can reach all pages through the menu on the left.
+The script has three blocks: the foundations, ten seminar sessions and a practice section. You can reach all pages through the menu on the left.
 
 ::: {.grid .welcome-cards}
 
@@ -31,11 +31,11 @@ Chapter 1 introduces the topic, its history and the key terms, and discusses the
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-diagram-3 .welcome-icon}
+[]{.bi .bi-globe2 .welcome-icon}
 
-**Parts II–VII · [From theory to practice](part-2/02-sociological-theories-inclusion.qmd)**
+**Sessions · [Ten seminar sessions](sessions/00-overview.qmd)**
 
-Central theories; power, difference and inequality; institutions; international comparison; inclusion as a political task; research and critical debates.
+From global inequality and postcolonial perspectives to climate justice, AI and the question of inclusive societies.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}

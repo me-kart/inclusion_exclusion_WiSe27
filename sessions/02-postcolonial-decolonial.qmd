@@ -1,0 +1,36 @@
+---
+title: "Session 2: Postcolonial and Decolonial Perspectives"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+To what extent do colonial power relations continue to shape contemporary forms of social inclusion and exclusion?
+:::
+
+This session examines how colonial power relations still shape inequality, belonging and exclusion today, with a focus on the construction of difference and the global hierarchy of knowledge, cultures and societies.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Colonialism and its social consequences
+- Postcolonial relations of power and domination
+- Othering and the construction of the stranger
+- Eurocentrism and hierarchies of knowledge
+- Decolonisation and global justice
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Postcolonial Theory (Edward Said, Homi K. Bhabha)
+- Decolonial Theory (Aníbal Quijano, Walter Mignolo)
+- Coloniality of Power (Aníbal Quijano)
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

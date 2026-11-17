@@ -1,0 +1,36 @@
+---
+title: "Session 8: Artificial Intelligence, Algorithmic Discrimination and Social Exclusion"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How can artificial intelligence and algorithmic decision-making reproduce or intensify social inequalities?
+:::
+
+This session examines how artificial intelligence and algorithmic decision-making can reproduce existing inequalities and produce new forms of discrimination.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- AI and social decision-making
+- Algorithmic bias and algorithmic discrimination
+- Automated decisions and institutional inequality
+- Surveillance, data protection and social control
+- Power and inequality in digital societies
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Algorithmic Bias
+- Algorithmic Discrimination (Safiya Umoja Noble)
+- Surveillance Studies (David Lyon)
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

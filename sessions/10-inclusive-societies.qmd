@@ -1,0 +1,39 @@
+---
+title: "Session 10: Towards Inclusive Societies: Global Challenges and Perspectives"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How can inclusive societies be developed in the context of global social, political, ecological and technological transformations?
+:::
+
+The final session brings the perspectives of the seminar together and asks how inclusive and just societies can be shaped under conditions of global transformation, and where the limits lie.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Preconditions of inclusive societies
+- Empowerment and participation
+- Inclusive governance and political participation
+- Social resilience and cohesion
+- Sustainable development and social justice
+- The Sustainable Development Goals (SDGs)
+- Possibilities and limits of international inclusion strategies
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Social Resilience
+- Empowerment
+- Inclusive Governance
+- Sustainable Development Goals (SDGs)
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

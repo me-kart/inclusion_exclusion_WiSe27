@@ -1,0 +1,68 @@
+---
+title: "Seminar Overview"
+subtitle: "International Perspectives on Inclusion and Exclusion · Master's programme, OTH Regensburg"
+aliases:
+  - /02-theories.html
+  - /theories.html
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question of the seminar
+How do global transformations, power relations and institutional structures shape social inclusion and exclusion, and how can more inclusive societies be developed?
+:::
+
+## What the seminar is about
+
+Global inequality, migration, postcolonial power relations, social and ecological crises and digitalisation change people's chances of participation and create new forms of exclusion. These developments cannot be understood within national borders alone. The seminar therefore takes an international and comparative perspective.
+
+It combines theories of global inequality, postcolonial and social policy perspectives with international case studies. The final sessions turn to artificial intelligence, polarisation and the question of how inclusive societies can be built.
+
+## Learning objectives
+
+After the seminar, you will be able to
+
+- explain and critically reflect on international theories of inclusion, exclusion and global inequality,
+- analyse the global social, political, economic and historical causes of exclusion,
+- apply postcolonial and decolonial perspectives to international power relations,
+- compare welfare state models and social policy approaches,
+- assess how migration, climate change and digitalisation affect participation,
+- identify structural and institutional mechanisms of discrimination,
+- place algorithmic discrimination, populism and polarisation in a theoretical context,
+- analyse international case studies with scientific theories,
+- evaluate strategies for promoting inclusive societies.
+
+## The ten sessions
+
+The sessions are organised in two blocks.
+
+::: {.block-card .block-1}
+[Block I · Sessions 1–6]{.block-badge}
+
+### Global Perspectives on Inclusion and Exclusion
+
+**Focus:** global inequalities, historical power relations, international social policy and social participation.
+
+1. [Global inequality and dependencies](01-global-inequality.qmd)
+2. [Colonialism and postcolonial power relations](02-postcolonial-decolonial.qmd)
+3. [Global social justice and human rights](03-global-justice-human-rights.qmd)
+4. [International welfare states](04-welfare-state-models.qmd)
+5. [Migration and citizenship](05-migration-citizenship.qmd)
+6. [Climate justice and environmental inequality](06-environmental-justice.qmd)
+:::
+
+::: {.block-card .block-2}
+[Block II · Sessions 7–10]{.block-badge}
+
+### Contemporary Challenges and Future Perspectives
+
+**Focus:** new mechanisms of exclusion and the challenges of building inclusive societies.
+
+7. [Digital inequality](07-digital-divide.qmd)
+8. [Artificial intelligence and discrimination](08-ai-algorithmic-discrimination.qmd)
+9. [Populism and social polarization](09-polarization-populism.qmd)
+10. [The future of inclusive societies](10-inclusive-societies.qmd)
+:::
+
+## How we work
+
+Short inputs introduce theories and concepts. We discuss academic texts, analyse international case studies, compare countries and apply the theories in group work. The aim is not to reproduce concepts, but to use them on international problems and to judge how much they can explain.

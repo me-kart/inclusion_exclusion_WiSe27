@@ -1,0 +1,38 @@
+---
+title: "Session 5: Migration, Global Mobility and Citizenship"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+Who belongs to a society, and how do citizenship and border regimes shape access to social rights and participation?
+:::
+
+This session looks at migration and global mobility as central dimensions of inclusion and exclusion: belonging, political membership and access to rights and resources.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- International migration and global mobility
+- Citizenship and social rights
+- Transnational lives and belongings
+- Multiculturalism and diversity
+- Border regimes and legal exclusion
+- Superdiversity
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Transnationalism
+- Postnational Citizenship (Yasemin Soysal)
+- Superdiversity (Steven Vertovec)
+- Border Regimes
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

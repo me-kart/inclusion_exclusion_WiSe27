@@ -1,0 +1,36 @@
+---
+title: "Session 4: International Welfare State Models and Social Protection"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How do different welfare state models promote or restrict social inclusion?
+:::
+
+This session compares welfare state models and asks how political and institutional frameworks shape access to social rights, resources and participation.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Development and functions of the welfare state
+- International welfare state models
+- Social protection and poverty reduction
+- Universalism and selectivism
+- Social rights and access to benefits
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Welfare Regime Theory (Gøsta Esping-Andersen)
+- Social Protection
+- Universalism versus Selectivism
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

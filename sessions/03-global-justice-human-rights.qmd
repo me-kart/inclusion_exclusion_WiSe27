@@ -1,0 +1,37 @@
+---
+title: "Session 3: Global Social Justice and Human Rights"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+What does social justice mean in a globalized world, and how can equal opportunities for social participation be achieved?
+:::
+
+This session deals with the normative foundations of inclusion: international human rights standards, distributive justice and the conditions people need to participate on equal terms.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Global social justice
+- Human rights and social rights
+- Distributive justice and equal opportunities
+- Participation and capabilities
+- Universalism and cultural difference
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Global Justice (Thomas Pogge)
+- Capability Approach (Amartya Sen, Martha Nussbaum)
+- Human Rights Approach
+- Social Citizenship
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

@@ -1,0 +1,37 @@
+---
+title: "Session 9: Social Polarization, Populism and New Forms of Exclusion"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How do populism, nationalism and social polarization contribute to new forms of social exclusion?
+:::
+
+This session deals with polarisation and political developments that create new forms of social and political exclusion, with attention to collective identities and ideas of national belonging.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Social polarisation and fragmentation
+- Populism and nationalism
+- Constructing belonging and strangeness
+- Social conflict and political exclusion
+- Social insecurity and new inequalities
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Social Fragmentation
+- Populism and Nationalism
+- Social Identity
+- Liquid Modernity (Zygmunt Bauman)
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

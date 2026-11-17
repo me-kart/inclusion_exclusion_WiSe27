@@ -1,0 +1,35 @@
+---
+title: "Session 1: Global Inequality and Social Exclusion"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How do global economic and political structures produce and reproduce social inequality and exclusion?
+:::
+
+The first session introduces the global dimensions of inequality and exclusion: how resources, life chances and opportunities for participation are distributed unequally between world regions and population groups.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Global inequality and the Global North–South divide
+- Global poverty and inequality
+- Economic dependencies and structural inequality
+- Globalization and social exclusion
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- World-Systems Theory (Immanuel Wallerstein)
+- Dependency Theory (André Gunder Frank)
+- Global Inequality
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::

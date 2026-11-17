@@ -1,0 +1,38 @@
+---
+title: "Session 6: Environmental Justice, Climate Change and Exclusion"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question
+How does climate change reinforce existing inequalities and create new forms of social exclusion?
+:::
+
+This session explores the social dimensions of the ecological crisis: how environmental burdens and climate change reinforce inequality and hit disadvantaged groups hardest.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Topics
+
+- Climate change and social inequality
+- Environmental justice and climate justice
+- Environmental racism
+- Unequal distribution of ecological risks
+- Climate-related migration and displacement
+- Global responsibility and intergenerational justice
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Key theories and concepts
+
+- Environmental Justice (Robert Bullard)
+- Climate Justice
+- Environmental Racism
+- Climate Migration
+:::
+
+:::
+
+::: {.placeholder}
+Readings, case studies and tasks for this session will follow.
+:::
