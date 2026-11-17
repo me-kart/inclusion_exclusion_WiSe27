@@ -21,3 +21,27 @@ iframe.lernspiel {
   font-size: 0.9em;
   margin: 0.6rem 0;
 }
+
+// Willkommensseite: Titelbild und Karten
+img.welcome-banner {
+  width: 100%;
+  height: auto;
+  margin: 0.5rem 0 1.5rem;
+}
+.welcome-cards { margin: 1rem 0 1.5rem; }
+.welcome-card {
+  background: #f5f9fc;
+  border: 1px solid #dbe6ef;
+  border-left: 4px solid $primary;
+  border-radius: 10px;
+  padding: 1rem 1.1rem 0.4rem;
+  transition: box-shadow .15s ease, transform .15s ease;
+  p { margin-bottom: 0.5rem; }
+  a { text-decoration: none; }
+  &:hover { box-shadow: 0 4px 14px rgba(31, 95, 139, .15); transform: translateY(-2px); }
+}
+.welcome-icon {
+  font-size: 1.8rem;
+  color: #e07a3f;
+  line-height: 1;
+}
