@@ -1,23 +1,20 @@
-# Willkommen {.unnumbered}
+# Welcome {.unnumbered}
 
-::: ersetzen
-**ERSETZEN:** zwei bis drei Sätze, worum es in Ihrem Skript geht und für wen es gedacht ist.
-:::
+Who belongs, who takes part, and on whose terms? In the seminar *International Perspectives on Inclusion and Exclusion*, we look at how societies draw these boundaries in schools, labour markets, citizenship law and social services, and how they do so differently from country to country.
 
-Dieses Skript enthält eine Lehreinheit, in der Sie nicht nur lesen, sondern an mehreren Stellen etwas tun: vorab einschätzen, zuordnen, abrufen. Die Einheit beginnt mit einem kurzen Vorab-Check und endet mit einem Lern-Check.
+This script accompanies the seminar. Here you will not only read: you will match, classify and recall. Take your time, try things out, and come back whenever you like.
 
-## So arbeiten Sie mit diesem Skript
+## How to use this script
 
-::: ersetzen
-**ERSETZEN:** Hinweise für Ihre Lernenden, zum Beispiel wie lange die Einheit dauert und ob sie zu einer Präsenzsitzung gehört.
-:::
+Work through the four pages in this order:
 
-Planen Sie für die Einheit etwa 30 Minuten ein. Ihre Antworten im Vorab-Check speichert nur Ihr eigener Browser; niemand sonst sieht sie.
+1. [Key Terms](lehreinheit.qmd): fourteen central terms and the confusions that often come with them
+2. [Theories and Concepts](theories.qmd): the theoretical approaches behind the terms
+3. [Learning Games](inclusion.qmd): a memory game and eight international cases to classify (about 20 minutes)
+4. [Learning Check](learning-check.qmd): a short test of what you have retained
 
-## Transparenzhinweis
+You can also reach all pages through the menu on the left.
 
-::: ersetzen
-**ERSETZEN:** Wofür haben Sie KI genutzt? Ein Satz genügt.
-:::
+## Transparency note
 
-Bei der Erstellung dieses Skripts wurde KI genutzt, um Lernspiele zu programmieren und Entwürfe für Fragen vorzuschlagen. Alle Inhalte wurden von der Autorin oder dem Autor geprüft und verantwortet.
+AI was used to program the learning games and to draft questions and explanations. All content has been reviewed by the author, who is responsible for it.

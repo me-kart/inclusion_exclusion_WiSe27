@@ -24,17 +24,17 @@ book:
     - learning-check.qmd
   page-footer:
     left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
-    right: "Erstellt mit [Quarto](https://quarto.org)"
+    right: "Created with [Quarto](https://quarto.org)"
 
 bibliography: references.bib    # aus Zotero exportiert (Better BibTeX)
 csl: apa.csl                    # Zitierstil APA 7, liegt im Ordner (funktioniert offline)
-lang: de
+lang: en
 
 crossref:
-  fig-title: Abbildung
-  tbl-title: Tabelle
-  fig-prefix: Abbildung
-  tbl-prefix: Tabelle
+  fig-title: Figure
+  tbl-title: Table
+  fig-prefix: Figure
+  tbl-prefix: Table
 
 format:
   html:
@@ -43,7 +43,7 @@ format:
       - styles.scss
     number-sections: false
     toc: true
-    toc-title: "Auf dieser Seite"
+    toc-title: "On this page"
     toc-depth: 2
     citations-hover: true
     crossrefs-hover: true

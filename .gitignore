@@ -7,3 +7,5 @@
 
 **/*.quarto_ipynb
 .Rhistory
+# leerer Hilfsordner, gehört nicht zur Webseite:
+/inclusion/
