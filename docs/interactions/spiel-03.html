@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learning check: Inclusion and Exclusion</title>
+<!--
+  Lern-Check am Ende der Einheit „International Perspectives on Inclusion and Exclusion“:
+  sieben Multiple-Choice-Fragen zu typischen Verwechslungen, mit erklärender Rückmeldung
+  zu jeder Antwortoption. Inhalte nur im DATEN-Block ändern.
+-->
+<style>
+  :root { --akzent: #1f5f8b; --ok: #2e7d32; --nok: #b3261e; --rand: #d0d7de; }
+  * { box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 0; padding: 12px; color: #1b1f24; line-height: 1.45; }
+  h1 { font-size: 1.1rem; margin: 0 0 4px; }
+  .hinweis { font-size: 0.9rem; color: #57606a; margin: 0 0 10px; }
+  .frage { border: 1px solid var(--rand); border-radius: 8px; padding: 10px; margin-bottom: 10px; }
+  .frage > p { margin: 0 0 8px; font-weight: 600; }
+  .opt { display: block; width: 100%; text-align: left; font: inherit; font-size: 0.92rem; margin: 4px 0; padding: 7px 10px;
+         border: 1px solid var(--rand); border-radius: 6px; background: #fff; cursor: pointer; }
+  .opt:focus-visible { outline: 3px solid #e0a400; outline-offset: 2px; }
+  .opt.ok { border: 2px solid var(--ok); background: #e8f5e9; }
+  .opt.nok { border: 2px solid var(--nok); background: #fdecea; }
+  .fb { font-size: 0.9rem; margin-top: 6px; }
+  #summe { font-weight: 600; }
+</style>
+</head>
+<body>
+<h1 id="titel"></h1>
+<p class="hinweis" id="hinweis"></p>
+<div id="fragen"></div>
+<p id="summe" aria-live="polite"></p>
+
+<script>
+/* ===== DATEN: Nur diesen Block ändern ===================================== */
+const DATEN = {
+  titel: "Learning check: What have you retained?",
+  hinweis: "Choose one answer per question. The feedback explains every option, including the wrong ones.",
+  ergebnis: "Result: {punkte} of {gesamt} correct.",
+  fragen: [
+    { frage: "A professional association only admits engineers with a domestic degree, although comparable foreign qualifications exist. Which concept explains this best?",
+      optionen: [
+        { text: "Othering", richtig: false, warum: "Othering constructs a group as different and inferior in language and discourse; this case is about a formal rule that controls access to positions." },
+        { text: "Social closure", richtig: true, warum: "Insiders secure jobs and positions by restricting access on the basis of a chosen criterion, here the country where the degree was obtained." },
+        { text: "Segregation", richtig: false, warum: "Foreign-trained engineers are not placed in separate institutions; they are kept out of positions altogether." } ] },
+    { frage: "Which statement describes intersectionality correctly?",
+      optionen: [
+        { text: "A person who is discriminated against on two grounds experiences twice as much discrimination", richtig: false, warum: "This is the additive model that intersectionality criticises; overlapping categories do not simply add up." },
+        { text: "Intersectionality means that every person belongs to several social groups", richtig: false, warum: "Multiple group memberships are only the starting point; the concept asks how their overlap produces specific power relations and disadvantages." },
+        { text: "Overlapping categories such as gender and race can produce a specific form of disadvantage that neither category explains on its own", richtig: true, warum: "Intersectionality analyses how categories interact and create disadvantages of their own kind." } ] },
+    { frage: "A student with a visual impairment receives exam papers in large print and 30 minutes of extra time. What is this?",
+      optionen: [
+        { text: "Reasonable accommodation", richtig: true, warum: "It is a necessary adjustment in an individual case that enables the student to take the exam on equal terms with others." },
+        { text: "Accessibility", richtig: false, warum: "Accessibility is planned in advance for everyone, for example step-free buildings or accessible websites; here the adjustment responds to one person's needs." },
+        { text: "Inclusion as a whole", richtig: false, warum: "The adjustment can be part of an inclusive university, but inclusion means that the institution changes its structures for all students." } ] },
+    { frage: "A woman has held the citizenship of her country for twenty years, yet she is regularly asked where she \"really\" comes from and is treated as a foreigner by public officials. What does the case show?",
+      optionen: [
+        { text: "She is excluded from citizenship", richtig: false, warum: "She holds formal citizenship with all its rights; she is not denied membership in a legal sense." },
+        { text: "Formal citizenship does not guarantee substantive belonging", richtig: true, warum: "She is a full member on paper, but others do not treat her as one in everyday life." },
+        { text: "She has not yet integrated", richtig: false, warum: "The case describes how others treat her, not a lack of adaptation on her part; reading it as an integration deficit shifts the problem onto her." } ] },
+    { frage: "A municipality measures poverty only by household income. What would the capability approach criticise?",
+      optionen: [
+        { text: "Income should be replaced by tests of people's skills and competencies", richtig: false, warum: "Capabilities are real freedoms to do and be what one values, not skills in an educational sense." },
+        { text: "Income says little about what people can actually do and be with it", richtig: true, warum: "Two people with the same income can have very different freedoms, for example if one of them cannot reach work because public transport is inaccessible." },
+        { text: "Poverty is not a relevant category for inclusion", richtig: false, warum: "The approach broadens the view of poverty; it does not dismiss it." } ] },
+    { frage: "A man who has received unemployment benefits for years avoids telling his neighbours, because he fears being seen only as a \"scrounger\". Which term describes his situation best?",
+      optionen: [
+        { text: "Discrimination", richtig: false, warum: "No unequal treatment by others is described; the man anticipates being devalued." },
+        { text: "Marginalisation", richtig: false, warum: "The case is not about his lack of power or influence on decisions but about a label that devalues him." },
+        { text: "Stigma", richtig: true, warum: "A discrediting label threatens to reduce him to one feature, and it already shapes how he sees and presents himself." } ] },
+    { frage: "A city declares that it \"tolerates\" religious minorities, but it does not include their representatives in its advisory council on social affairs. What is missing from the perspective of recognition?",
+      optionen: [
+        { text: "Affirmation of the minorities as equal and valued members of the city", richtig: true, warum: "Recognition means more than putting up with difference; it requires treating people as equals, including a voice in decisions." },
+        { text: "More tolerance towards the minorities", richtig: false, warum: "Tolerance is already granted; it merely accepts difference and does not make people equal members." },
+        { text: "Redistribution of financial resources to the minorities", richtig: false, warum: "Redistribution concerns the material side of justice; the case is about status and participation." } ] }
+  ]
+};
+/* ===== ENDE DATEN ========================================================== */
+
+(function () {
+  document.getElementById("titel").textContent = DATEN.titel;
+  document.getElementById("hinweis").textContent = DATEN.hinweis;
+  const box = document.getElementById("fragen");
+  let beantwortet = 0, punkte = 0;
+
+  DATEN.fragen.forEach((f, i) => {
+    const d = document.createElement("div"); d.className = "frage";
+    const p = document.createElement("p"); p.textContent = (i + 1) + ". " + f.frage; d.appendChild(p);
+    const fb = document.createElement("div"); fb.className = "fb"; fb.setAttribute("aria-live", "polite");
+    const knoepfe = f.optionen.map((o) => {
+      const b = document.createElement("button"); b.type = "button"; b.className = "opt"; b.textContent = o.text;
+      b.addEventListener("click", () => {
+        if (d.dataset.fertig) return;
+        d.dataset.fertig = "1"; beantwortet++; if (o.richtig) punkte++;
+        knoepfe.forEach((k, j) => { if (f.optionen[j].richtig) k.classList.add("ok"); });
+        if (!o.richtig) b.classList.add("nok");
+        fb.innerHTML = "";
+        f.optionen.forEach((x) => {
+          const z = document.createElement("div");
+          z.textContent = (x.richtig ? "✓ " : "✗ ") + x.text + ": " + x.warum; fb.appendChild(z);
+        });
+        if (beantwortet === DATEN.fragen.length)
+          document.getElementById("summe").textContent = DATEN.ergebnis.replace("{punkte}", punkte).replace("{gesamt}", DATEN.fragen.length);
+        meldeHoehe();
+      });
+      d.appendChild(b); return b;
+    });
+    d.appendChild(fb); box.appendChild(d);
+  });
+
+  function meldeHoehe() {
+    try { window.parent.postMessage({ typ: "iframe-hoehe", hoehe: document.documentElement.scrollHeight }, "*"); } catch (e) {}
+  }
+  window.addEventListener("load", meldeHoehe);
+  window.addEventListener("resize", meldeHoehe);
+})();
+</script>
+</body>
+</html>
