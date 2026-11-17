@@ -1,0 +1,23 @@
+---
+title: "12. Migration, Citizenship and Belonging"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **12.1** Migration as a global social phenomenon
+- **12.2** Theories of migration and transnationalism
+- **12.3** Citizenship, nationality and membership
+- **12.4** Legal status and differentiated access to rights
+- **12.5** Inclusion and exclusion in migration societies
+- **12.6** Integration, assimilation and multiculturalism
+- **12.7** Superdiversity and plural societies
+- **12.8** Refugees, asylum and forced migration
+- **12.9** Borders, border regimes and territorial exclusion
+- **12.10** Statelessness and the right to have rights
+- **12.11** Diaspora, transnational identities and multiple belonging
+- **12.12** Citizenship and social participation
+- **12.13** Comparative perspectives on migration and integration policies
+:::

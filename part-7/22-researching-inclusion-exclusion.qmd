@@ -1,0 +1,23 @@
+---
+title: "22. Researching Inclusion and Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **22.1** Theoretical and methodological foundations
+- **22.2** Quantitative approaches to measuring social exclusion
+- **22.3** Qualitative approaches to understanding exclusion experiences
+- **22.4** Mixed-methods research
+- **22.5** Indicators of social inclusion and exclusion
+- **22.6** Measuring social participation and belonging
+- **22.7** Poverty and deprivation indicators
+- **22.8** Institutional and organizational analysis
+- **22.9** Intersectional research perspectives
+- **22.10** Comparative international research
+- **22.11** Participatory research and the involvement of marginalized groups
+- **22.12** Ethical challenges in researching vulnerable populations
+- **22.13** Limitations of measurement and categorization
+:::

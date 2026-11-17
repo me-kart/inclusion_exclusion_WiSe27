@@ -1,0 +1,21 @@
+---
+title: "16. Global Inequality and Global Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **16.1** Globalization and changing patterns of inequality
+- **16.2** Global North and Global South
+- **16.3** Global poverty and unequal development
+- **16.4** Dependency theory and world-systems theory
+- **16.5** Immanuel Wallerstein: World-systems analysis
+- **16.6** Global capitalism and structural inequalities
+- **16.7** Postcolonial power relations
+- **16.8** Climate change and environmental injustice
+- **16.9** Climate migration and climate-related displacement
+- **16.10** Global citizenship and transnational solidarity
+- **16.11** Sustainable Development Goals (SDGs) and social inclusion
+:::

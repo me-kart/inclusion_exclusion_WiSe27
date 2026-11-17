@@ -1,0 +1,20 @@
+---
+title: "7. Gender, Sexuality and Social Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **7.1** Gender as a social structure
+- **7.2** Feminist theories of inequality
+- **7.3** Patriarchy and gender-based power relations
+- **7.4** Gender roles, norms and social expectations
+- **7.5** Gender discrimination and institutional exclusion
+- **7.6** Queer theory and the critique of heteronormativity
+- **7.7** LGBTQIA+ identities, rights and social participation
+- **7.8** Intersectionality of gender, class, race and sexuality
+- **7.9** Gender-based violence and social exclusion
+- **7.10** Gender equality policies in international comparison
+:::

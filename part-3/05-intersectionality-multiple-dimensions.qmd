@@ -1,0 +1,28 @@
+---
+title: "5. Intersectionality and Multiple Dimensions of Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **5.1** Historical origins of intersectionality
+- **5.2** Kimberlé Crenshaw: Intersectionality as an analytical framework
+- **5.3** Intersections of social categories
+    - Class
+    - Gender
+    - Race and ethnicity
+    - Migration background
+    - Religion
+    - Disability
+    - Sexual orientation
+    - Age
+- **5.4** Multiple discrimination and overlapping disadvantages
+- **5.5** Structural, political and representational intersectionality
+- **5.6** Patricia Hill Collins: Matrix of domination
+- **5.7** Intersectionality between identity, power and social structures
+- **5.8** Intersectionality in international comparative research
+- **5.9** Methodological challenges of intersectional analysis
+- **5.10** Implications for social policy and social work
+:::

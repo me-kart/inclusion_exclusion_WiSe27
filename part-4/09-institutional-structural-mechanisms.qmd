@@ -1,0 +1,20 @@
+---
+title: "9. Institutional and Structural Mechanisms of Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **9.1** Institutions as structures of social order
+- **9.2** Formal and informal mechanisms of inclusion and exclusion
+- **9.3** Institutional discrimination
+- **9.4** Organizational cultures and exclusionary practices
+- **9.5** Bureaucracy, categorization and access to social rights
+- **9.6** Institutional racism and structural inequalities
+- **9.7** Gatekeeping and access to resources
+- **9.8** Welfare institutions and conditional inclusion
+- **9.9** The role of law and public administration
+- **9.10** Institutional change and inclusive organizational development
+:::

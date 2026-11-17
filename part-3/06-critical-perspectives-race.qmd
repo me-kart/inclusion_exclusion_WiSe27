@@ -1,0 +1,23 @@
+---
+title: "6. Critical Perspectives on Race, Racism and Postcolonial Inequality"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **6.1** The social construction of race
+- **6.2** Historical origins of racial classifications and racism
+- **6.3** Critical Race Theory (CRT)
+- **6.4** Institutional and structural racism
+- **6.5** Everyday racism and racialization
+- **6.6** Ethnic boundaries and processes of ethnicization
+- **6.7** Colonialism, postcolonialism and contemporary power relations
+- **6.8** Edward Said: Orientalism and the construction of the Other
+- **6.9** Frantz Fanon: Colonialism, identity and exclusion
+- **6.10** Decolonial perspectives on knowledge and social relations
+- **6.11** Islamophobia, antisemitism and other forms of group-focused hostility
+- **6.12** Racism and discrimination in institutions
+- **6.13** Anti-racist approaches and strategies for structural change
+:::

@@ -1,0 +1,22 @@
+---
+title: "14. Urban Inequality, Spatial Segregation and Social Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **14.1** Space and society: The social production of space
+- **14.2** Henri Lefebvre: The production of space
+- **14.3** Urban segregation and social inequality
+- **14.4** Neighbourhood effects and territorial disadvantage
+- **14.5** Concentrated poverty and deprived neighbourhoods
+- **14.6** Gentrification and displacement
+- **14.7** Spatial stigmatization
+- **14.8** Access to public spaces and urban infrastructure
+- **14.9** Housing inequality and homelessness
+- **14.10** Socially inclusive urban development
+- **14.11** The right to the city (Henri Lefebvre)
+- **14.12** International comparisons of urban exclusion
+:::

@@ -1,0 +1,21 @@
+---
+title: "4. Social Identity, Difference and Boundary-Making"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **4.1** Social identity and processes of identification
+- **4.2** In-group and out-group dynamics
+- **4.3** Social categorization and stereotyping
+- **4.4** Othering: The construction of the social Other
+- **4.5** Stigma and processes of devaluation
+- **4.6** Prejudice, discrimination and social exclusion
+- **4.7** Social boundaries and symbolic distinctions
+- **4.8** Theories of social closure
+- **4.9** Cultural difference and the politics of belonging
+- **4.10** Collective identities, nationalism and the construction of belonging
+- **4.11** The relationship between identity, power and inequality
+:::

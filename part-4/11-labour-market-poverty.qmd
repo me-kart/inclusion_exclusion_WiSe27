@@ -1,0 +1,22 @@
+---
+title: "11. Labour Market, Poverty and Economic Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **11.1** Work and social integration in modern societies
+- **11.2** Labour market segmentation
+- **11.3** Unemployment and long-term unemployment
+- **11.4** Precarious employment and working poverty
+- **11.5** Poverty as a multidimensional phenomenon
+- **11.6** Relative and absolute poverty
+- **11.7** Social exclusion and material deprivation
+- **11.8** Homelessness and housing exclusion
+- **11.9** Social protection systems and welfare dependency debates
+- **11.10** The relationship between work, dignity and social recognition
+- **11.11** Economic globalization and new forms of labour market exclusion
+- **11.12** Universal Basic Income and alternative models of social security
+:::

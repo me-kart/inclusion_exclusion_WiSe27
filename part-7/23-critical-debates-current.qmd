@@ -1,0 +1,22 @@
+---
+title: "23. Critical Debates and Current Challenges"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **23.1** Is a society without exclusion possible?
+- **23.2** Does inclusion necessarily require exclusion?
+- **23.3** The paradox of inclusion: Inclusion under conditions of inequality
+- **23.4** Inclusion versus assimilation
+- **23.5** The limits of diversity and inclusion policies
+- **23.6** Recognition versus redistribution
+- **23.7** Individual responsibility versus structural responsibility
+- **23.8** Meritocracy and the legitimization of inequality
+- **23.9** Populism, nationalism and exclusionary politics
+- **23.10** Polarization and social fragmentation
+- **23.11** Crisis, insecurity and the politics of belonging
+- **23.12** The future of inclusive societies
+:::

@@ -1,0 +1,18 @@
+---
+title: "24. Conclusion: Towards Inclusive and Just Societies"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **24.1** Summary of the central theoretical approaches
+- **24.2** Inclusion and exclusion as interconnected social processes
+- **24.3** The relationship between power, inequality and participation
+- **24.4** The importance of structural and institutional transformation
+- **24.5** Social justice, recognition and redistribution
+- **24.6** Implications for social policy and social work
+- **24.7** Perspectives for future research and practice
+- **24.8** Final reflections: What does an inclusive society actually mean?
+:::

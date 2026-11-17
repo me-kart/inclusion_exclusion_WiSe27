@@ -1,0 +1,20 @@
+---
+title: "15. Digitalization, Technology and New Forms of Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **15.1** Digital society and social transformation
+- **15.2** The digital divide: Access, skills and outcomes
+- **15.3** Digital inequality and social stratification
+- **15.4** Algorithmic discrimination and algorithmic bias
+- **15.5** Artificial intelligence and structural inequalities
+- **15.6** Surveillance, datafication and social control
+- **15.7** Social media, polarization and exclusion
+- **15.8** Digital participation and democratic inclusion
+- **15.9** Digital accessibility and inclusive technologies
+- **15.10** Opportunities and risks of digital inclusion
+:::

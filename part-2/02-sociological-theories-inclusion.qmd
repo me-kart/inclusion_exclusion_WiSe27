@@ -1,0 +1,20 @@
+---
+title: "2. Sociological Theories of Inclusion and Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **2.1** Niklas Luhmann: Inclusion and exclusion in functional differentiation
+- **2.2** Social systems and the problem of social participation
+- **2.3** Exclusion as a consequence of functional differentiation
+- **2.4** Robert Castel: Social disaffiliation and the transformation of social bonds
+- **2.5** Loïc Wacquant: Advanced marginality and territorial stigmatization
+- **2.6** Zygmunt Bauman: Modernity, social exclusion and the production of outsiders
+- **2.7** Michel Foucault: Power, normalization, discipline and social control
+- **2.8** Erving Goffman: Stigma, identity and social interaction
+- **2.9** Norbert Elias: Established–outsider relations
+- **2.10** Contemporary debates on social exclusion and social disintegration
+:::

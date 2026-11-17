@@ -1,0 +1,22 @@
+---
+title: "8. Disability, Ableism and Inclusive Societies"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **8.1** Historical perspectives on disability and social exclusion
+- **8.2** The medical model of disability
+- **8.3** The social model of disability
+- **8.4** The biopsychosocial model and the WHO-ICF framework
+- **8.5** The human rights model of disability
+- **8.6** The United Nations Convention on the Rights of Persons with Disabilities (UN CRPD)
+- **8.7** Ableism and structural discrimination
+- **8.8** Accessibility, participation and self-determination
+- **8.9** Inclusive education and employment
+- **8.10** Institutionalization and deinstitutionalization
+- **8.11** Disability, intersectionality and multiple discrimination
+- **8.12** Universal Design and inclusive environments
+:::

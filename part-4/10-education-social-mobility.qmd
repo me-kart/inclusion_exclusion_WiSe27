@@ -1,0 +1,21 @@
+---
+title: "10. Education, Social Mobility and Educational Inequality"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **10.1** Education as a mechanism of social inclusion
+- **10.2** Education as a mechanism of social reproduction
+- **10.3** Pierre Bourdieu: Cultural capital and educational inequality
+- **10.4** Educational opportunities and social background
+- **10.5** Early childhood education and unequal starting conditions
+- **10.6** School segregation and unequal educational pathways
+- **10.7** Migration, language and educational participation
+- **10.8** Disability and inclusive education
+- **10.9** Digital divide and educational inequalities
+- **10.10** International perspectives on educational inclusion
+- **10.11** Education policies and equal opportunities
+:::

@@ -1,0 +1,20 @@
+---
+title: "13. Religion, Culture and Social Belonging"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **13.1** Religion as a dimension of social identity
+- **13.2** Religious pluralism and secularization
+- **13.3** Religious discrimination and exclusion
+- **13.4** Antisemitism and anti-Muslim racism
+- **13.5** Religious freedom and the limits of tolerance
+- **13.6** Cultural recognition and intercultural relations
+- **13.7** Multiculturalism and interculturalism
+- **13.8** Religious diversity in public institutions
+- **13.9** Conflicts over values, norms and belonging
+- **13.10** Social cohesion in religiously diverse societies
+:::

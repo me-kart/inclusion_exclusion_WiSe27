@@ -1,0 +1,22 @@
+---
+title: "21. Prevention, Intervention and Strategies for Reducing Exclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **21.1** Individual, organizational and structural intervention levels
+- **21.2** Preventive approaches and early intervention
+- **21.3** Empowerment-based approaches
+- **21.4** Community-based interventions
+- **21.5** Participatory approaches and co-production
+- **21.6** Anti-discrimination strategies
+- **21.7** Inclusive organizational development
+- **21.8** Intercultural and diversity-sensitive approaches
+- **21.9** Advocacy and political social work
+- **21.10** Cooperation between institutions and civil society
+- **21.11** Evaluation of inclusion strategies
+- **21.12** Good practices and international examples
+:::

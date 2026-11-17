@@ -1,0 +1,21 @@
+---
+title: "3. Theories of Social Justice, Recognition and Participation"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **3.1** The philosophical foundations of social justice
+- **3.2** John Rawls: Justice as fairness
+- **3.3** Amartya Sen: The capability approach
+- **3.4** Martha C. Nussbaum: Human capabilities and human dignity
+- **3.5** Axel Honneth: Recognition, disrespect and social conflict
+- **3.6** Nancy Fraser: Redistribution, recognition and representation
+- **3.7** Iris Marion Young: Justice, difference and structural oppression
+- **3.8** Equality versus equity: Different approaches to social justice
+- **3.9** Participation as a dimension of social justice
+- **3.10** The right to belong and the right to participate
+- **3.11** The tension between universal rights and particular needs
+:::

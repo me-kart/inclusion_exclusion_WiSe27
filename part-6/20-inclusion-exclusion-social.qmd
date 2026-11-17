@@ -1,0 +1,23 @@
+---
+title: "20. Inclusion and Exclusion in Social Work"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **20.1** The relationship between social work and social inequality
+- **20.2** Social work as an institution of inclusion
+- **20.3** Social work between assistance, control and social regulation
+- **20.4** The mandate of social work: Help, empowerment and social justice
+- **20.5** The professional mandate and the concept of human rights
+- **20.6** Lifeworld-oriented social work (Hans Thiersch)
+- **20.7** Critical social work and structural inequality
+- **20.8** Anti-oppressive social work
+- **20.9** Anti-discriminatory and diversity-sensitive social work
+- **20.10** Empowerment and participation
+- **20.11** Community work and social transformation
+- **20.12** The ambivalence of professional interventions: When does social work reproduce exclusion?
+- **20.13** Professional ethics and the responsibility to challenge discriminatory structures
+:::

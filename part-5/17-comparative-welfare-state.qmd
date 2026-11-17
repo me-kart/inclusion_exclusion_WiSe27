@@ -1,0 +1,21 @@
+---
+title: "17. Comparative Welfare State Perspectives"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **17.1** The development of the modern welfare state
+- **17.2** Gøsta Esping-Andersen: Three worlds of welfare capitalism
+- **17.3** Liberal, conservative-corporatist and social-democratic welfare regimes
+- **17.4** Welfare state models beyond Western Europe
+- **17.5** Social rights and citizenship
+- **17.6** Universalism versus selectivism
+- **17.7** Conditionality and access to welfare benefits
+- **17.8** Social investment and active inclusion
+- **17.9** Gender and care in comparative welfare state research
+- **17.10** International differences in social protection and social participation
+- **17.11** The challenges of welfare states in the twenty-first century
+:::

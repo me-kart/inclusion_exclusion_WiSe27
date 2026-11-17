@@ -1,0 +1,23 @@
+---
+title: "18. International Human Rights and Inclusion Policies"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **18.1** Human rights as a normative foundation of inclusion
+- **18.2** The Universal Declaration of Human Rights
+- **18.3** International Covenant on Economic, Social and Cultural Rights
+- **18.4** International Covenant on Civil and Political Rights
+- **18.5** Convention on the Rights of the Child
+- **18.6** Convention on the Rights of Persons with Disabilities
+- **18.7** Convention on the Elimination of All Forms of Discrimination against Women
+- **18.8** International conventions against racial discrimination
+- **18.9** European human rights frameworks
+- **18.10** The European Social Charter
+- **18.11** Anti-discrimination legislation and equal treatment
+- **18.12** Human rights implementation and structural barriers
+- **18.13** The tension between universal rights and national policies
+:::

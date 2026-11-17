@@ -1,0 +1,22 @@
+---
+title: "19. Theories and Approaches to Social Inclusion"
+---
+
+::: {.placeholder}
+This chapter is in preparation.
+:::
+
+::: {.outline}
+- **19.1** The concept of an inclusive society
+- **19.2** Social inclusion as a political objective
+- **19.3** Inclusive institutions and inclusive organizations
+- **19.4** Equality of opportunity and equality of outcome
+- **19.5** Participation, empowerment and self-determination
+- **19.6** Community inclusion and social cohesion
+- **19.7** Diversity management and anti-discrimination approaches
+- **19.8** Universal Design and accessibility
+- **19.9** Inclusive governance and participatory decision-making
+- **19.10** The limits and contradictions of inclusion policies
+- **19.11** From individual adaptation to structural transformation
+- **19.12** The question of transformative inclusion: Changing institutions rather than merely including individuals in existing structures
+:::
