@@ -6,10 +6,10 @@ toc-title: "On this page"
 
 This learning check shows which key terms of the seminar you can already apply with confidence. Each of the seven questions targets a typical confusion, for example between social closure and othering or between reasonable accommodation and accessibility. After each answer, the feedback explains every option, including the wrong ones. The check is not graded.
 
-If you are unsure about a question, read the terms again on the page [Inclusion and Exclusion: Key Terms](lehreinheit.qmd).
+If you are unsure about a question, read the terms again on the page [Inclusion and Exclusion: Key Terms](01-key-terms.qmd).
 
 ::: {.callout-tip title="Learning check: What have you retained?"}
-<iframe class="lernspiel" src="interactions/spiel-03.html" height="2400" loading="lazy" title="Learning check with explanatory feedback">
+<iframe class="lernspiel" src="interactions/inclusion-exclusion-check.html" height="2400" loading="lazy" title="Learning check with explanatory feedback">
 
 </iframe>
 :::

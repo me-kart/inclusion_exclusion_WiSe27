@@ -19,16 +19,14 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - lehreinheit.qmd
-    - theories.qmd
-    - inclusion.qmd
-    - learning-check.qmd
+    - 01-key-terms.qmd
+    - 02-theories.qmd
+    - 03-learning-games.qmd
+    - 04-learning-check.qmd
   page-footer:
     left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
     right: "Created with [Quarto](https://quarto.org)"
 
-bibliography: references.bib    # aus Zotero exportiert (Better BibTeX)
-csl: apa.csl                    # Zitierstil APA 7, liegt im Ordner (funktioniert offline)
 lang: en
 
 crossref:
@@ -47,11 +45,9 @@ format:
     toc: true
     toc-title: "On this page"
     toc-depth: 2
-    citations-hover: true
     crossrefs-hover: true
     footnotes-hover: true
     link-external-newwindow: true
     callout-appearance: simple
     include-after-body:
-      - include/einschaetzung.html   # Vorab-Check: Skala, Speichern, Anzeige im Prüfkasten
       - include/iframe-hoehe.html    # Lernspiele bekommen automatisch die passende Höhe

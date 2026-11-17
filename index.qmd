@@ -17,7 +17,7 @@ Work through the four pages in this order. You can also reach them through the m
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-journal-text .welcome-icon}
 
-**1 · [Key Terms](lehreinheit.qmd)**
+**1 · [Key Terms](01-key-terms.qmd)**
 
 Fourteen central terms and the confusions that often come with them.
 :::
@@ -25,7 +25,7 @@ Fourteen central terms and the confusions that often come with them.
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-lightbulb .welcome-icon}
 
-**2 · [Theories and Concepts](theories.qmd)**
+**2 · [Theories and Concepts](02-theories.qmd)**
 
 The theoretical approaches behind the terms.
 :::
@@ -33,7 +33,7 @@ The theoretical approaches behind the terms.
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-controller .welcome-icon}
 
-**3 · [Learning Games](inclusion.qmd)**
+**3 · [Learning Games](03-learning-games.qmd)**
 
 A memory game and eight international cases to classify. About 20 minutes.
 :::
@@ -41,7 +41,7 @@ A memory game and eight international cases to classify. About 20 minutes.
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-check2-circle .welcome-icon}
 
-**4 · [Learning Check](learning-check.qmd)**
+**4 · [Learning Check](04-learning-check.qmd)**
 
 A short test of what you have retained.
 :::

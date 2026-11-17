@@ -4,7 +4,7 @@ lang: en
 toc-title: "On this page"
 ---
 
-This unit introduces the key terms of the seminar *International Perspectives on Inclusion and Exclusion*. Click on a term to open its explanation and the typical confusion that comes with it. A short learning check at the end shows what you have retained. You can then practise the terms with the memory game and the case game on the page [Inclusion and Exclusion: Learning Games](inclusion.qmd).
+This unit introduces the key terms of the seminar *International Perspectives on Inclusion and Exclusion*. Click on a term to open its explanation and the typical confusion that comes with it. You can then practise the terms on the page [Learning Games](03-learning-games.qmd) and test yourself in the [Learning Check](04-learning-check.qmd).
 
 ```{=html}
 <div class="term-tools">
@@ -172,11 +172,3 @@ Social cohesion describes the degree of trust, shared belonging and cooperation 
 :::
 
 </details>
-
-## Learning check {#sec-lerncheck}
-
-::: {.callout-tip title="Learning check: What have you retained?"}
-<iframe class="lernspiel" src="interactions/spiel-03.html" height="900" loading="lazy" title="Learning check with explanatory feedback">
-
-</iframe>
-:::
