@@ -106,3 +106,4 @@ format:
     callout-appearance: simple
     include-after-body:
       - include/iframe-hoehe.html    # Lernspiele bekommen automatisch die passende Höhe
+      - include/theory-panel.html    # Theorien auf Sitzungsseiten aufklappen

@@ -247,3 +247,29 @@ div.callout-note.callout { border-left-color: $fak-green !important; }
   background: $oth-slate-1; color: $oth-black;
 }
 .block-2 .block-badge { background: #e3f3ea; color: $fak-green; }
+
+// Anklickbare Theorien und Erläuterungskästen
+.theory-hint { display: block; font-size: .85rem; color: $oth-slate-7; margin-bottom: .4rem; }
+.theory-link {
+  cursor: pointer;
+  border-bottom: 2px solid $fak-green;
+  &:hover, &:focus-visible { color: $fak-green; outline: none; }
+  &.active { font-weight: 700; color: $fak-green; }
+}
+.theory-panel {
+  display: none;
+  position: relative;
+  border: 1px solid $oth-slate-4;
+  border-top: 5px solid $fak-green;
+  padding: 1rem 1.4rem .6rem;
+  margin: 1.2rem 0 1.5rem;
+  &.open { display: block; }
+  h3 { margin-top: 0; padding-right: 5rem; border: 0; font-weight: 700; font-size: 1.3rem; }
+  p, li { font-size: .97rem; }
+}
+.theory-close {
+  position: absolute; top: .8rem; right: 1rem; z-index: 5;
+  font: inherit; font-size: .85rem;
+  background: #fff; border: 1px solid $oth-black; padding: .15rem .6rem; cursor: pointer;
+  &:hover { background: $oth-black; color: #fff; }
+}
