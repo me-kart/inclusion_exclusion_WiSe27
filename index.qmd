@@ -1,61 +1,69 @@
 ---
-title: "International Perspectives on Inclusion and Exclusion"
-subtitle: "Interactive course materials"
-author: "Prof. Dr. Mehmet Kart"
-date: today
-date-format: "DD.MM.YYYY"
+title: "Seminar Overview"
+subtitle: "International Perspectives on Inclusion and Exclusion · Master's programme, OTH Regensburg"
+aliases:
+  - /sessions/00-overview.html
+  - /02-theories.html
+  - /theories.html
 ---
 
-# Welcome {.unnumbered}
-
-::: {.oth-frame}
-![](images/welcome-banner.svg){.welcome-banner fig-alt="Four circles showing exclusion, segregation, integration and inclusion: green dots outside the circle, in a separate circle, in a small circle inside, and finally mixed with all other dots."}
+::: {.callout-note appearance="simple" icon=false}
+### Guiding question of the seminar
+How do global transformations, power relations and institutional structures shape social inclusion and exclusion, and how can more inclusive societies be developed?
 :::
 
-Who belongs, who takes part, and on whose terms? In the seminar *International Perspectives on Inclusion and Exclusion*, we look at how societies draw these boundaries in schools, labour markets, citizenship law and social services, and how they do so differently from country to country.
+## What the seminar is about
 
-This script accompanies the seminar. Here you will not only read: you will match, classify and recall. Take your time, try things out, and come back whenever you like.
+Global inequality, migration, postcolonial power relations, social and ecological crises and digitalisation change people's chances of participation and create new forms of exclusion. These developments cannot be understood within national borders alone. The seminar therefore takes an international and comparative perspective.
 
-## How to use this script
+It combines theories of global inequality, postcolonial and social policy perspectives with international case studies. The final sessions turn to artificial intelligence, polarisation and the question of how inclusive societies can be built.
 
-The script has three blocks: the foundations, ten seminar sessions and a practice section. You can reach all pages through the menu on the left.
+## Learning objectives
 
-::: {.grid .welcome-cards}
+After the seminar, you will be able to
 
-::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-journal-text .welcome-icon}
+- explain and critically reflect on international theories of inclusion, exclusion and global inequality,
+- analyse the global social, political, economic and historical causes of exclusion,
+- apply postcolonial and decolonial perspectives to international power relations,
+- compare welfare state models and social policy approaches,
+- assess how migration, climate change and digitalisation affect participation,
+- identify structural and institutional mechanisms of discrimination,
+- place algorithmic discrimination, populism and polarisation in a theoretical context,
+- analyse international case studies with scientific theories,
+- evaluate strategies for promoting inclusive societies.
 
-**Part I · [Foundations and Theoretical Approaches](part-1/01-00-introduction.qmd)**
+## The ten sessions
 
-Chapter 1 introduces the topic, its history and the key terms, and discusses the dimensions, dynamics and normative foundations of inclusion and exclusion.
+The sessions are organised in two blocks.
+
+::: {.block-card .block-1}
+[Block I · Sessions 1–6]{.block-badge}
+
+### Global Perspectives on Inclusion and Exclusion
+
+**Focus:** global inequalities, historical power relations, international social policy and social participation.
+
+1. [Global inequality and dependencies](sessions/01-global-inequality.qmd)
+2. [Colonialism and postcolonial power relations](sessions/02-postcolonial-decolonial.qmd)
+3. [Global social justice and human rights](sessions/03-global-justice-human-rights.qmd)
+4. [International welfare states](sessions/04-welfare-state-models.qmd)
+5. [Migration and citizenship](sessions/05-migration-citizenship.qmd)
+6. [Climate justice and environmental inequality](sessions/06-environmental-justice.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-globe2 .welcome-icon}
+::: {.block-card .block-2}
+[Block II · Sessions 7–10]{.block-badge}
 
-**Sessions · [Ten seminar sessions](sessions/00-overview.qmd)**
+### Contemporary Challenges and Future Perspectives
 
-From global inequality and postcolonial perspectives to climate justice, AI and the question of inclusive societies.
+**Focus:** new mechanisms of exclusion and the challenges of building inclusive societies.
+
+7. [Digital inequality](sessions/07-digital-divide.qmd)
+8. [Artificial intelligence and discrimination](sessions/08-ai-algorithmic-discrimination.qmd)
+9. [Populism and social polarization](sessions/09-polarization-populism.qmd)
+10. [The future of inclusive societies](sessions/10-inclusive-societies.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-controller .welcome-icon}
+## How we work
 
-**Practice · [Learning Games](03-learning-games.qmd)**
-
-A memory game and eight international cases to classify. About 20 minutes.
-:::
-
-::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-check2-circle .welcome-icon}
-
-**Practice · [Learning Check](04-learning-check.qmd)**
-
-A short test of what you have retained.
-:::
-
-:::
-
-## Transparency note
-
-AI was used to program the learning games, to draft questions, explanations and the texts of Chapter 1, and to create the illustration on this page. All content has been reviewed by the author, who is responsible for it.
+Short inputs introduce theories and concepts. We discuss academic texts, analyse international case studies, compare countries and apply the theories in group work. The aim is not to reproduce concepts, but to use them on international problems and to judge how much they can explain.

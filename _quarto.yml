@@ -7,8 +7,10 @@ project:
   output-dir: docs            # die fertige Webseite landet in docs/
   render:                     # nur diese Seiten werden gebaut
     - index.qmd
+    - welcome.qmd
     - part-1/*.qmd
     - sessions/*.qmd
+    - "!sessions/00-overview.qmd"   # alte Übersicht, ersetzt durch index.qmd
     - 03-learning-games.qmd
     - 04-learning-check.qmd
   resources:
@@ -24,7 +26,7 @@ website:
     collapse-level: 1
     contents:
       - text: "Welcome"
-        href: index.qmd
+        href: welcome.qmd
       - section: "Part I – Foundations and Theoretical Approaches"
         contents:
           - section: "1. Introduction: Understanding Inclusion and Exclusion"
@@ -43,7 +45,7 @@ website:
       - section: "Seminar Sessions"
         contents:
           - text: "Overview"
-            href: sessions/00-overview.qmd
+            href: index.qmd
           - section: "Block I · Global Perspectives"
             contents:
               - text: "1 · Global Inequality"
