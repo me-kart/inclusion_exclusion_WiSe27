@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /learning-check.html
 title: "Inclusion and Exclusion: Learning Check"
 lang: en
 toc-title: "On this page"

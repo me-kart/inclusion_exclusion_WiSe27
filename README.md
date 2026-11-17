@@ -8,6 +8,7 @@ Interaktives Skript zum Seminar von Prof. Dr. Mehmet Kart, OTH Regensburg (WiSe 
 index.qmd                Willkommensseite
 part-1/                  Part I, Kapitel 1: Übersicht (01-00) und Unterkapitel 1.1–1.10
                          (1.4 = Key Terms mit aufklappbaren Begriffen)
+part-2/ … part-7/        Teil II–VII, eine Seite je Kapitel (Kapitel 2–24)
 02-theories.qmd          Theories and Concepts
 03-learning-games.qmd    Learning Games (Memory, Fälle zuordnen)
 04-learning-check.qmd    Learning Check

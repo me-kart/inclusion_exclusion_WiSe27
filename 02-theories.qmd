@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /theories.html
 title: "Inclusion and Exclusion: Theories and Concepts"
 lang: en
 toc-title: "On this page"

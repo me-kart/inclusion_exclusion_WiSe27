@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /inclusion.html
 title: "Inclusion and Exclusion: Learning Games"
 lang: en
 toc-title: "On this page"

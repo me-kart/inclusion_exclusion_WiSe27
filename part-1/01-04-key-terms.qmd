@@ -1,4 +1,7 @@
 ---
+aliases:
+  - /lehreinheit.html
+  - /01-key-terms.html
 title: "1.4 Key terms and conceptual distinctions"
 lang: en
 toc-title: "On this page"

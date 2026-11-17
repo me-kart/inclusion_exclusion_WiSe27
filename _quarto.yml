@@ -15,7 +15,7 @@ website:
   sidebar:
     style: docked
     search: true
-    collapse-level: 2
+    collapse-level: 1
     contents:
       - text: "Welcome"
         href: index.qmd
@@ -34,6 +34,41 @@ website:
               - part-1/01-08-ambivalence.qmd
               - part-1/01-09-normative-foundations.qmd
               - part-1/01-10-contemporary-challenges.qmd
+      - section: "Part II – Central Theories of Inclusion and Exclusion"
+        contents:
+          - part-2/02-sociological-theories-inclusion.qmd
+          - part-2/03-theories-social-justice.qmd
+          - part-2/04-social-identity-difference.qmd
+      - section: "Part III – Power, Difference and Structural Inequality"
+        contents:
+          - part-3/05-intersectionality-multiple-dimensions.qmd
+          - part-3/06-critical-perspectives-race.qmd
+          - part-3/07-gender-sexuality-social.qmd
+          - part-3/08-disability-ableism-inclusive.qmd
+      - section: "Part IV – Social Institutions and Mechanisms of Exclusion"
+        contents:
+          - part-4/09-institutional-structural-mechanisms.qmd
+          - part-4/10-education-social-mobility.qmd
+          - part-4/11-labour-market-poverty.qmd
+          - part-4/12-migration-citizenship-belonging.qmd
+          - part-4/13-religion-culture-social.qmd
+          - part-4/14-urban-inequality-spatial.qmd
+          - part-4/15-digitalization-technology-forms.qmd
+      - section: "Part V – International and Comparative Perspectives"
+        contents:
+          - part-5/16-global-inequality-global.qmd
+          - part-5/17-comparative-welfare-state.qmd
+          - part-5/18-international-human-rights.qmd
+      - section: "Part VI – Inclusion as a Social and Political Task"
+        contents:
+          - part-6/19-theories-approaches-social.qmd
+          - part-6/20-inclusion-exclusion-social.qmd
+          - part-6/21-prevention-intervention-strategies.qmd
+      - section: "Part VII – Empirical Research and Critical Reflection"
+        contents:
+          - part-7/22-researching-inclusion-exclusion.qmd
+          - part-7/23-critical-debates-current.qmd
+          - part-7/24-conclusion-towards-inclusive.qmd
       - text: "Theories and Concepts"
         href: 02-theories.qmd
       - section: "Practice"
@@ -65,6 +100,7 @@ format:
     toc: true
     toc-title: "On this page"
     toc-depth: 2
+    toc-expand: true
     crossrefs-hover: true
     footnotes-hover: true
     link-external-newwindow: true
