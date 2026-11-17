@@ -142,3 +142,50 @@ iframe.lernspiel {
 div.callout-tip.callout { border-left-color: $fak-green !important; }
 div.callout-tip .callout-icon::before, div.callout-tip .callout-title { color: $fak-green; }
 .welcome-card strong a { font-weight: 700; }
+
+// Key Terms: aufklappbare Begriffe
+.term-tools {
+  display: flex; gap: .5rem; margin: 1rem 0 .5rem;
+  button {
+    font: inherit; font-size: .9rem;
+    background: #fff; color: $oth-black;
+    border: 1px solid $oth-black; padding: .3rem .9rem; cursor: pointer;
+    &:hover, &:focus-visible { background: $oth-black; color: #fff; }
+  }
+}
+details.term {
+  background: $oth-slate-1;
+  border-left: 4px solid $oth-slate-4;
+  margin: .5rem 0;
+  transition: border-color .15s ease;
+  &[open] { border-left-color: $fak-green; background: #fff; box-shadow: 0 0 0 1px $oth-slate-4 inset; }
+  > summary {
+    list-style: none;
+    cursor: pointer;
+    padding: .7rem 1rem;
+    font-weight: 600;
+    color: $oth-black;
+    font-size: 1.1rem;
+    display: flex; justify-content: space-between; align-items: center;
+    &::-webkit-details-marker { display: none; }
+    &::after {
+      content: "+";
+      font-weight: 300; font-size: 1.6rem; line-height: 1;
+      color: $fak-green;
+      margin-left: 1rem;
+    }
+    &:hover { color: $fak-green; }
+    &:focus-visible { outline: 2px solid $fak-green; outline-offset: 2px; }
+  }
+  &[open] > summary::after { content: "\2212"; }
+  > :not(summary) { margin-left: 1rem; margin-right: 1rem; }
+  > p:last-child, > div:last-child { margin-bottom: 1rem; }
+}
+.confused {
+  background: $oth-slate-1;
+  border-left: 3px solid $oth-black;
+  padding: .5rem .8rem;
+  font-size: .95rem;
+  margin-bottom: 1rem;
+  p { margin: 0; }
+}
