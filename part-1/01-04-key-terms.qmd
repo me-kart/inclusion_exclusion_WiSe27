@@ -1,0 +1,174 @@
+---
+title: "1.4 Key terms and conceptual distinctions"
+lang: en
+toc-title: "On this page"
+---
+
+This section introduces the key terms of the seminar *International Perspectives on Inclusion and Exclusion*. Click on a term to open its explanation and the typical confusion that comes with it. You can then practise the terms on the page [Learning Games](../03-learning-games.qmd) and test yourself in the [Learning Check](../04-learning-check.qmd).
+
+```{=html}
+<div class="term-tools">
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=true)">Expand all</button>
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=false)">Collapse all</button>
+</div>
+```
+
+## Exclusion, segregation, integration and inclusion {#sec-vier-formen}
+
+<details class="term">
+<summary>Social exclusion</summary>
+
+Social exclusion describes a process in which people are cut off from rights, resources and participation in the mainstream life of a society. It is multidimensional: disadvantages in income, work, housing, health, education and social contacts tend to reinforce each other. The term directs attention to the institutions and mechanisms that exclude, not only to the situation of those affected.
+
+::: {.confused}
+**Often confused with:** poverty. Poverty usually refers to a lack of income at a given point in time, whereas social exclusion is a process that spans several areas of life.
+:::
+
+</details>
+
+<details class="term">
+<summary>Segregation</summary>
+
+Segregation means that groups are separated physically or institutionally into distinct spaces, schools or services. Those affected are inside the system, for example they attend school, but in separate institutions. Segregation can be required by law or emerge from housing markets, school choice and administrative practice.
+
+::: {.confused}
+**Often confused with:** exclusion. Segregated groups are not cut off from a system; they are kept apart within it.
+:::
+
+</details>
+
+<details class="term">
+<summary>Integration</summary>
+
+Integration refers to incorporating individuals or groups into existing structures, such as mainstream schools or the labour market. The structures themselves largely remain unchanged, and those who are integrated are expected to adapt. In migration debates, the term covers very different meanings, ranging from equal participation to cultural adaptation.
+
+::: {.confused}
+**Often confused with:** inclusion, or blurred with assimilation, the demand to give up one's own cultural identity.
+:::
+
+</details>
+
+<details class="term">
+<summary>Inclusion</summary>
+
+Inclusion means changing structures so that everyone can participate fully and on equal terms. The system adapts to the diversity of people, not the other way round. The UN Convention on the Rights of Persons with Disabilities (CRPD) establishes inclusive education as a right.
+
+::: {.confused}
+**Often confused with:** integration. Placing someone in a mainstream setting is not yet inclusion if teaching, rules and materials stay the same.
+:::
+
+</details>
+
+## Mechanisms of exclusion {#sec-mechanismen}
+
+<details class="term">
+<summary>Marginalisation</summary>
+
+Marginalisation describes how groups are pushed to the edges of power, resources and participation while formally remaining members of society. Marginalised groups have rights on paper but little influence on the decisions that affect them. The term captures positions between full participation and exclusion.
+
+::: {.confused}
+**Often confused with:** full exclusion, or with minority status, which refers to numbers rather than to power.
+:::
+
+</details>
+
+<details class="term">
+<summary>Social closure</summary>
+
+Social closure describes how groups monopolise opportunities such as jobs, positions or membership by restricting access to insiders. The criteria for access can be credentials, origin, language or citizenship. The concept goes back to Max Weber and shows that exclusion often results from others securing their own advantages.
+
+::: {.confused}
+**Often confused with:** spatial separation. Social closure concerns access to resources and positions, not where people live.
+:::
+
+</details>
+
+<details class="term">
+<summary>Othering</summary>
+
+Othering is the process of constructing a group as fundamentally different from and inferior to one's own. By defining "the others", a group stabilises its own identity as "us". Othering takes place in language, media, policies and everyday practices.
+
+::: {.confused}
+**Often confused with:** individual prejudice. Othering is a collective, discursive process, not merely a personal attitude.
+:::
+
+</details>
+
+<details class="term">
+<summary>Stigma</summary>
+
+A stigma is an attribute or label that discredits a person and spoils their social identity. Once stigmatised, a person is no longer seen as a whole person but is reduced to that one feature. Stigma can lead to discrimination, and it also affects how people see themselves.
+
+::: {.confused}
+**Often confused with:** stereotype, a cognitive generalisation about a group, or with discrimination, the unequal treatment that may follow from stigma.
+:::
+
+</details>
+
+## Analytical and normative concepts {#sec-konzepte}
+
+<details class="term">
+<summary>Intersectionality</summary>
+
+Intersectionality analyses how categories such as race, gender, class or disability overlap and together produce specific forms of disadvantage. A Black woman, for example, may face discrimination that neither Black men nor white women experience in the same way. The term was coined by Kimberlé Crenshaw in legal studies.
+
+::: {.confused}
+**Often confused with:** an additive model in which several forms of discrimination are simply added up.
+:::
+
+</details>
+
+<details class="term">
+<summary>Recognition</summary>
+
+Recognition means being affirmed as an equal and valued member of a community. It includes legal respect as a bearer of rights and social esteem for one's abilities and way of life. Denied recognition is experienced as an injustice in its own right.
+
+::: {.confused}
+**Often confused with:** tolerance, which merely puts up with difference, or with redistribution, the material side of justice.
+:::
+
+</details>
+
+<details class="term">
+<summary>Citizenship</summary>
+
+Citizenship is formal membership in a political community that grants rights and duties and allows claims on the state. Who holds citizenship and who is denied it is a central line of inclusion and exclusion. Formal citizenship does not guarantee that people are treated as full members in practice.
+
+::: {.confused}
+**Often confused with:** nationality, or with substantive belonging, which can be missing despite a passport.
+:::
+
+</details>
+
+<details class="term">
+<summary>Reasonable accommodation</summary>
+
+Reasonable accommodation means necessary and appropriate adjustments in an individual case that enable a disabled person to exercise their rights on an equal basis with others. Examples are extra time in exams or an adapted workplace. Under the CRPD, denying reasonable accommodation counts as discrimination.
+
+::: {.confused}
+**Often confused with:** accessibility or universal design, which apply to everyone in advance rather than responding to one person's needs.
+:::
+
+</details>
+
+<details class="term">
+<summary>Capability approach</summary>
+
+The capability approach judges well-being by people's real freedoms to do and be what they have reason to value. It asks not only which resources people have but what they can actually achieve with them. Developed by Amartya Sen and Martha Nussbaum, it is widely used to assess social justice and development.
+
+::: {.confused}
+**Often confused with:** income or resource measures, or with skills and competencies in an educational sense.
+:::
+
+</details>
+
+<details class="term">
+<summary>Social cohesion</summary>
+
+Social cohesion describes the degree of trust, shared belonging and cooperation that holds a community together across differences. Cohesive societies do not require sameness; they manage diversity and conflict without breaking apart. The term is common in European and national policy debates.
+
+::: {.confused}
+**Often confused with:** sameness or assimilation, or with social capital, the resources people gain from their networks.
+:::
+
+</details>

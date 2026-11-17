@@ -3,31 +3,51 @@
 # Alles andere ist fertig eingerichtet.
 # ─────────────────────────────────────────────────────────────
 project:
-  type: book
+  type: website
   output-dir: docs            # die fertige Webseite landet in docs/
   resources:
     - "interactions/*"        # Lernspiele werden mitkopiert
     - "fonts/*"               # Schrift Outfit (OTH), lokal eingebunden
 
-book:
-  title: "International Perspectives on Inclusion and Exclusion"          # ← Titel
-  subtitle: "Interactive course materials"   # ← Untertitel
-  author: "Prof. Dr. Mehmet Kart"                          # ← Name
-  date: today
-  date-format: "DD.MM.YYYY"
-  search: true
+website:
+  title: "International Perspectives on Inclusion and Exclusion"   # ← Titel
   page-navigation: true
-  chapters:
-    - index.qmd
-    - 01-key-terms.qmd
-    - 02-theories.qmd
-    - 03-learning-games.qmd
-    - 04-learning-check.qmd
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+    contents:
+      - text: "Welcome"
+        href: index.qmd
+      - section: "Part I – Foundations and Theoretical Approaches"
+        contents:
+          - section: "1. Introduction: Understanding Inclusion and Exclusion"
+            href: part-1/01-00-introduction.qmd
+            contents:
+              - part-1/01-01-topic-and-relevance.qmd
+              - part-1/01-02-significance.qmd
+              - part-1/01-03-historical-development.qmd
+              - part-1/01-04-key-terms.qmd
+              - part-1/01-05-relational-concepts.qmd
+              - part-1/01-06-dimensions.qmd
+              - part-1/01-07-dynamic-processes.qmd
+              - part-1/01-08-ambivalence.qmd
+              - part-1/01-09-normative-foundations.qmd
+              - part-1/01-10-contemporary-challenges.qmd
+      - text: "Theories and Concepts"
+        href: 02-theories.qmd
+      - section: "Practice"
+        contents:
+          - text: "Learning Games"
+            href: 03-learning-games.qmd
+          - text: "Learning Check"
+            href: 04-learning-check.qmd
   page-footer:
     left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
     right: "Created with [Quarto](https://quarto.org)"
 
 lang: en
+toc-title: "On this page"
 
 crossref:
   fig-title: Figure

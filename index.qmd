@@ -1,3 +1,11 @@
+---
+title: "International Perspectives on Inclusion and Exclusion"
+subtitle: "Interactive course materials"
+author: "Prof. Dr. Mehmet Kart"
+date: today
+date-format: "DD.MM.YYYY"
+---
+
 # Welcome {.unnumbered}
 
 ::: {.oth-frame}
@@ -10,22 +18,22 @@ This script accompanies the seminar. Here you will not only read: you will match
 
 ## How to use this script
 
-Work through the four pages in this order. You can also reach them through the menu on the left.
+The script is organised in three blocks. You can reach all pages through the menu on the left.
 
 ::: {.grid .welcome-cards}
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-journal-text .welcome-icon}
 
-**1 · [Key Terms](01-key-terms.qmd)**
+**Part I · [Foundations and Theoretical Approaches](part-1/01-00-introduction.qmd)**
 
-Fourteen central terms and the confusions that often come with them.
+Chapter 1 introduces the topic, its history and the key terms, and discusses the dimensions, dynamics and normative foundations of inclusion and exclusion.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-lightbulb .welcome-icon}
 
-**2 · [Theories and Concepts](02-theories.qmd)**
+**[Theories and Concepts](02-theories.qmd)**
 
 The theoretical approaches behind the terms.
 :::
@@ -33,7 +41,7 @@ The theoretical approaches behind the terms.
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-controller .welcome-icon}
 
-**3 · [Learning Games](03-learning-games.qmd)**
+**Practice · [Learning Games](03-learning-games.qmd)**
 
 A memory game and eight international cases to classify. About 20 minutes.
 :::
@@ -41,7 +49,7 @@ A memory game and eight international cases to classify. About 20 minutes.
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-check2-circle .welcome-icon}
 
-**4 · [Learning Check](04-learning-check.qmd)**
+**Practice · [Learning Check](04-learning-check.qmd)**
 
 A short test of what you have retained.
 :::
@@ -50,4 +58,4 @@ A short test of what you have retained.
 
 ## Transparency note
 
-AI was used to program the learning games, to draft questions and explanations, and to create the illustration on this page. All content has been reviewed by the author, who is responsible for it.
+AI was used to program the learning games, to draft questions, explanations and the texts of Chapter 1, and to create the illustration on this page. All content has been reviewed by the author, who is responsible for it.

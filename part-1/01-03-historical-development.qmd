@@ -1,0 +1,33 @@
+---
+title: "1.3 Historical development of the concepts"
+---
+
+The terms inclusion and exclusion are relatively young in public debate. The phenomena they describe are old. Every society has drawn boundaries between members and strangers, between the "deserving" and the "undeserving" poor, between those with rights and those without.
+
+## Early roots in sociology
+
+Classical sociology already dealt with belonging and its limits. Max Weber described *social closure*: groups secure advantages by restricting access to insiders. Georg Simmel analysed the figure of the stranger, who is part of a group and yet remains outside. Norbert Elias and John Scotson showed in their study *The Established and the Outsiders* (1965) how an established group stigmatises newcomers, although the two groups hardly differ socially.
+
+## Exclusion in French social policy
+
+The modern career of the term "exclusion" began in France. In 1974, René Lenoir published *Les exclus*, a book about people who had fallen through the net of social protection, among them people with disabilities, older people and young people without work. In the 1980s and 1990s, the term spread in French debates on long-term unemployment and the crisis of the suburbs. Robert Castel spoke of *désaffiliation*: the gradual loss of ties to work and social networks.
+
+## European and international policy
+
+From the late 1980s, the European Community and later the European Union adopted the language of social exclusion. It allowed poverty to be described as more than a lack of income. Since then, EU indicators have measured the risk of "poverty or social exclusion". International organisations took up the concept as well.
+
+In parallel, sociologists developed different readings of exclusion. Hilary Silver (1994) distinguished three paradigms: exclusion as a breakdown of social solidarity, as a result of specialisation and individual choice, and as an outcome of group monopolies. Ruth Levitas (1998) showed that political discourses use the term in different ways: to argue for redistribution, to emphasise integration into paid work, or to blame an allegedly deviant "underclass".
+
+## Inclusion in education and disability rights
+
+The term inclusion has a second, partly separate origin in education and the disability rights movement. The UNESCO Salamanca Statement (1994) called for schools that welcome all children. The UN Convention on the Rights of Persons with Disabilities (2006) made inclusion a binding human right. Here, inclusion stands for a change of systems rather than for the adaptation of individuals.
+
+## Systems theory
+
+In German-speaking sociology, Niklas Luhmann used inclusion and exclusion in a different sense. For him, inclusion means that persons are taken into account by function systems such as the economy, law or education. Exclusion in one system can trigger exclusion in others.
+
+The concepts thus have several histories. Knowing these histories helps to understand why the same words carry different meanings today.
+
+::: {.callout-note title="Reflection question"}
+Compare the French debate on *exclusion* with the disability rights debate on *inclusion*. What problem does each of them address, and what solution do they suggest?
+:::

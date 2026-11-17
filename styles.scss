@@ -189,3 +189,10 @@ details.term {
   margin-bottom: 1rem;
   p { margin: 0; }
 }
+
+// Seitenleiste: Teile und Kapitel hervorheben
+#quarto-sidebar .sidebar-item-section > .sidebar-item-container .sidebar-item-text {
+  font-weight: 600;
+  color: $oth-black;
+}
+.quarto-page-breadcrumbs a, .breadcrumb a { text-decoration: none; }

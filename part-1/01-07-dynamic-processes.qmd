@@ -1,0 +1,36 @@
+---
+title: "1.7 Inclusion and exclusion as dynamic and multidimensional processes"
+---
+
+Exclusion is rarely a single event. It usually develops over time and across several areas of life. Inclusion, too, is not a state that is achieved once and for all. Both are processes.
+
+## Exclusion as a process
+
+Robert Castel described exclusion as a gradual movement from a zone of integration through a zone of vulnerability into a zone of *désaffiliation*. A person loses a stable job, takes up precarious work, falls into debt, loses the flat, and contacts thin out. Each step makes the next one more likely. Seen this way, exclusion is not a fixed position at the margin, but the result of a trajectory.
+
+This perspective has practical value. It shows that there are points at which a downward process can be interrupted, and that prevention is possible.
+
+## Multiple dimensions
+
+Exclusion has several dimensions that reinforce each other:
+
+- **economic:** income, work, housing
+- **social:** networks, contacts, support
+- **political and legal:** rights, residence status, participation
+- **cultural and symbolic:** recognition, stigma, representation
+
+A person can be included in one dimension and excluded in another. Problems tend to accumulate, however. Poverty restricts social contacts; an insecure residence status blocks access to work; stigma makes it harder to claim rights. Research therefore speaks of cumulative disadvantage.
+
+## Intersectionality
+
+Dimensions of difference also overlap. Gender, race, class, disability, age and residence status do not simply add up. They interact and produce specific positions. An older woman with a refugee background experiences different barriers than a young man with the same background. Intersectional analysis helps to recognise such positions and to avoid one-dimensional explanations.
+
+## Inclusion is never finished
+
+Inclusion processes can be reversed. Rights that were granted can be restricted. Reforms can be implemented half-heartedly. Groups that were once accepted can become targets of new exclusion, for example in times of crisis or political polarisation. Inclusion therefore requires constant attention and is always contested.
+
+For social work practice, this means that biographies and life courses matter. Professionals need to understand how disadvantages have built up over time, and where there are points for intervention.
+
+::: {.callout-note title="Reflection question"}
+Describe a possible path into exclusion for a fictional person. At which points could social work have intervened?
+:::

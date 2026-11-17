@@ -1,0 +1,36 @@
+---
+title: "1.6 Individual, institutional and structural dimensions of inclusion and exclusion"
+---
+
+Exclusion can result from the actions of individuals, from the rules and routines of institutions and from the structures of a society. These three levels are analytically distinct. In practice they overlap and reinforce each other.
+
+## The individual level
+
+At the individual level, exclusion occurs in interactions: a landlord who does not rent to people with a certain name, a teacher who has lower expectations of some pupils, a remark in a meeting that marks a colleague as "other". Prejudice, stereotypes and stigma shape such interactions. They are important, but they explain only part of the picture.
+
+## The institutional level
+
+Institutions can exclude even if no individual intends to do so. Mechtild Gomolla and Frank-Olaf Radtke showed for German schools that decisions about school entry, special education referrals and secondary school recommendations systematically disadvantage children with a migration background. The reason lies not primarily in individual prejudice, but in organisational routines, criteria and the pressure to produce manageable groups.
+
+Typical mechanisms of institutional exclusion are:
+
+- formal requirements that some groups cannot meet, such as documents, language levels or fixed addresses
+- eligibility rules that tie access to residence status or previous contributions
+- standard procedures that ignore different needs
+- the use of categories that become labels
+
+## The structural level
+
+Structural exclusion refers to the distribution of resources and power in society as a whole: in the labour market, the housing market, the education system and the political system. Charles Tilly described how durable inequality arises when categorical differences, such as citizen/non-citizen or man/woman, are linked to unequal access to resources. Exclusion is then reproduced across generations without anyone having to act intentionally.
+
+Racism, sexism and ableism are not only attitudes. They are also inscribed in laws, institutions and social structures.
+
+## How the levels interact
+
+The three levels interact. Structural conditions shape institutional rules. Institutional rules give individual prejudices room to operate. Individual actions in turn confirm and stabilise structures. A housing market with little affordable housing creates competition; landlords can choose; discrimination becomes easier and harder to prove.
+
+For social work practice, this means that individual support is necessary but not sufficient. Professionals also need to address institutional routines and, where possible, structural conditions, for example through advocacy, networking and political participation.
+
+::: {.callout-note title="Reflection question"}
+Choose an organisation you know, such as a school, an agency or an association. Which rules or routines could exclude certain groups, even if no one intends to do so?
+:::

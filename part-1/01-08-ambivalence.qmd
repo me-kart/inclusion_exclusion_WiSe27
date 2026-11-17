@@ -1,0 +1,31 @@
+---
+title: "1.8 The ambivalence of inclusion: Can inclusion also produce exclusion?"
+---
+
+Inclusion is usually seen as the positive counterpart to exclusion. This view is too simple. Inclusive measures can themselves produce new boundaries. Recognising this ambivalence is not an argument against inclusion. It is a condition for implementing it well.
+
+## Inclusion on whose terms?
+
+Being included often means adapting to existing norms. Integration policies may expect migrants to give up parts of their identity. Labour market programmes may define participation exclusively as paid work and devalue care work or voluntary engagement. Those who do not fit the norm remain at the margin, now as "failures of integration". Inclusion on unequal terms can thus stabilise hierarchies.
+
+## The dilemma of difference
+
+To receive support, people often have to be classified: as having special educational needs, as disabled, as refugees, as "at risk". The classification opens access to resources. At the same time, it can stigmatise and separate. Martha Minow called this the *dilemma of difference*: ignoring difference can perpetuate disadvantage, but highlighting difference can do so as well. In German-speaking debates, the term *Etikettierungs-Ressourcen-Dilemma* (labelling–resources dilemma) describes the same tension in schools.
+
+## Differential inclusion
+
+Many people are neither fully included nor fully excluded. Migration research speaks of *differential inclusion*: migrants are included in the labour market, for example, but with fewer rights, in insecure positions and under constant threat of exclusion. Their inclusion is real, but it is subordinate. The boundary does not run between inside and outside. It runs through the inside.
+
+## Inclusion that excludes others
+
+Inclusion of one group can also come at the expense of another. Welfare states that strengthen solidarity among citizens may tighten access for non-citizens. Communities that grow closer may draw sharper boundaries against outsiders. Social cohesion can turn into closure.
+
+## Consequences
+
+These ambivalences call for a critical but not cynical stance. The question is not whether inclusion is good, but how it is designed: who defines its terms, who participates in decisions, and which new boundaries emerge.
+
+For social work practice, this means reflecting on one's own categories and procedures. Professionals should ask regularly: whom do our offers reach, whom do they miss, and which labels do we attach to people in order to help them?
+
+::: {.callout-note title="Reflection question"}
+Find an example of an inclusive measure that has unintended exclusionary effects. How could the measure be redesigned?
+:::

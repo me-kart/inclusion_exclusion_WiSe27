@@ -1,0 +1,33 @@
+---
+title: "1.9 Normative foundations: Equality, freedom, justice and human dignity"
+---
+
+Talking about inclusion and exclusion is never purely descriptive. Whoever calls a situation "exclusion" implies that something is wrong. The debate therefore rests on normative foundations. Four of them are central: equality, freedom, justice and human dignity.
+
+## Human dignity
+
+Human dignity is the starting point. Article 1 of the Universal Declaration of Human Rights (1948) states that all human beings are born free and equal in dignity and rights. The German Basic Law opens with the principle that human dignity shall be inviolable. Dignity does not depend on achievement, origin or usefulness. It is the reason why exclusion from basic rights cannot be justified by such criteria.
+
+## Equality
+
+Equality has several meanings. *Formal equality* means equal rights and equal treatment before the law. *Substantive equality* asks whether people actually have equal opportunities. Equal treatment can produce unequal outcomes if starting conditions differ. This is why the UN Convention on the Rights of Persons with Disabilities requires reasonable accommodation, and why anti-discrimination law also covers indirect discrimination.
+
+## Freedom
+
+Freedom is often understood negatively, as protection from interference. Exclusion, however, also restricts freedom in a positive sense: the real possibility to shape one's own life. Amartya Sen and Martha Nussbaum developed the capability approach to capture this. What counts is not only which resources people have, but what they can actually do and be with them.
+
+## Justice
+
+Theories of justice offer different answers to the question of what a just society owes its members. John Rawls focused on the fair distribution of basic goods. Nancy Fraser argued that justice requires redistribution, recognition and representation, so that everyone can participate as a peer in social life. Axel Honneth emphasised that misrecognition, such as disrespect and humiliation, is an injustice in its own right.
+
+## Tensions between the principles
+
+The principles do not always point in the same direction. Equal treatment can conflict with the recognition of difference. Freedom of association can conflict with non-discrimination. Such tensions cannot be resolved once and for all. They must be weighed in each context.
+
+## Social work as a human rights profession
+
+The global definition of social work by the International Federation of Social Workers (IFSW) names social justice, human rights, collective responsibility and respect for diversities as central principles. For social work practice, this means that the normative foundations are not abstract. They are a professional mandate: to make exclusion visible, to justify interventions and to take a position where rights are violated.
+
+::: {.callout-note title="Reflection question"}
+Take a concrete case of exclusion. Which principle (equality, freedom, justice, dignity) is violated most clearly, and why?
+:::

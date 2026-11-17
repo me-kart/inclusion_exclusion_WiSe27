@@ -1,0 +1,28 @@
+---
+title: "1. Introduction: Understanding Inclusion and Exclusion"
+---
+
+Who belongs, who takes part, and who decides? This first chapter lays the groundwork for the seminar. It introduces the topic, traces how the concepts developed and clarifies the key terms. It then shows that inclusion and exclusion are relational, multidimensional and dynamic, and that inclusion itself can be ambivalent. The chapter closes with the normative foundations of the debate and with the challenges that currently reshape it.
+
+## Sections in this chapter
+
+1. [Introduction to the topic and its relevance](01-01-topic-and-relevance.qmd)
+2. [The significance of inclusion and exclusion in contemporary societies](01-02-significance.qmd)
+3. [Historical development of the concepts](01-03-historical-development.qmd)
+4. [Key terms and conceptual distinctions](01-04-key-terms.qmd)
+5. [Inclusion and exclusion as relational concepts](01-05-relational-concepts.qmd)
+6. [Individual, institutional and structural dimensions](01-06-dimensions.qmd)
+7. [Inclusion and exclusion as dynamic and multidimensional processes](01-07-dynamic-processes.qmd)
+8. [The ambivalence of inclusion: Can inclusion also produce exclusion?](01-08-ambivalence.qmd)
+9. [Normative foundations: Equality, freedom, justice and human dignity](01-09-normative-foundations.qmd)
+10. [Contemporary challenges: Globalization, migration, digitalization and social transformation](01-10-contemporary-challenges.qmd)
+
+## Learning objectives
+
+After working through this chapter, you will be able to
+
+- explain why inclusion and exclusion are central categories for social work and the social sciences,
+- distinguish exclusion, segregation, integration and inclusion and related terms,
+- analyse inclusion and exclusion on the individual, institutional and structural level,
+- recognise how inclusive measures can produce new forms of exclusion,
+- relate the debate to principles of equality, freedom, justice and human dignity.

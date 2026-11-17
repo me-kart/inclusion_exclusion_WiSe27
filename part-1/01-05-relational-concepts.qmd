@@ -1,0 +1,31 @@
+---
+title: "1.5 Inclusion and exclusion as relational concepts"
+---
+
+Inclusion and exclusion are not characteristics of individuals. Nobody is "excluded" in the way they are tall or short. The terms describe relations: between people and groups, between people and institutions, and between those who draw boundaries and those who are affected by them.
+
+## No inside without an outside
+
+Every inclusion implies a boundary. A community, a nation or an organisation defines who belongs. In doing so, it also defines who does not belong. Citizenship is a clear example. It grants rights to members and, at the same time, distinguishes them from non-citizens. Inclusion and exclusion are therefore two sides of the same process, not opposites that exclude each other.
+
+This has an important consequence. Whoever asks why some people are excluded must also ask who includes, on what terms and in whose interest.
+
+## Boundaries are made
+
+The established–outsider study by Norbert Elias and John Scotson illustrates this. In an English suburb, an older group of residents looked down on newcomers, although both groups had similar jobs and incomes. The only difference was the length of residence. The established group used gossip, cohesion and control over local institutions to keep the newcomers in an inferior position. The boundary did not result from differences between the groups. It produced them.
+
+Similar processes can be observed today: in debates on "real" members of a nation, in the distinction between "us" and "migrants" in the third generation, or in neighbourhoods that are labelled as problem areas.
+
+## Inclusion depends on the reference point
+
+Whether someone counts as included depends on the reference point. A person can be well integrated into family and community networks but excluded from the labour market. A refugee can attend a language course but have no right to work. A pupil can attend a mainstream school but sit in a separate group most of the day. One should therefore always ask: included in what, and excluded from what?
+
+## Consequences for analysis and practice
+
+A relational view avoids two shortcuts. The first locates the causes of exclusion solely in the deficits of individuals. The second treats people as passive victims of structures. Both overlook that boundaries are negotiated and contested, and that people respond to them.
+
+For social work practice, this means: look at the relations, not only at the "case". Ask who holds the power to define boundaries and what scope for action the people concerned have.
+
+::: {.callout-note title="Reflection question"}
+Choose a group that is often described as "excluded". Who draws the boundary in this case, and which institutions are involved?
+:::
