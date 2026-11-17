@@ -1,0 +1,55 @@
+# ─────────────────────────────────────────────────────────────
+# Einstellungen des Skripts. Ändern Sie nur die Zeilen mit ← .
+# Alles andere ist fertig eingerichtet.
+# ─────────────────────────────────────────────────────────────
+project:
+  type: book
+  output-dir: docs            # die fertige Webseite landet in docs/
+  resources:
+    - "interactions/*"        # Lernspiele werden mitkopiert
+
+book:
+  title: "International Perspectives on Inclusion and Exclusion"          # ← Titel
+  subtitle: "Interactive course materials"   # ← Untertitel
+  author: "Prof. Dr. Mehmet Kart"                          # ← Name
+  date: today
+  date-format: "DD.MM.YYYY"
+  search: true
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - lehreinheit.qmd
+    - theories.qmd
+    - inclusion.qmd
+    - learning-check.qmd
+  page-footer:
+    left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
+    right: "Erstellt mit [Quarto](https://quarto.org)"
+
+bibliography: references.bib    # aus Zotero exportiert (Better BibTeX)
+csl: apa.csl                    # Zitierstil APA 7, liegt im Ordner (funktioniert offline)
+lang: de
+
+crossref:
+  fig-title: Abbildung
+  tbl-title: Tabelle
+  fig-prefix: Abbildung
+  tbl-prefix: Tabelle
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    number-sections: false
+    toc: true
+    toc-title: "Auf dieser Seite"
+    toc-depth: 2
+    citations-hover: true
+    crossrefs-hover: true
+    footnotes-hover: true
+    link-external-newwindow: true
+    callout-appearance: simple
+    include-after-body:
+      - include/einschaetzung.html   # Vorab-Check: Skala, Speichern, Anzeige im Prüfkasten
+      - include/iframe-hoehe.html    # Lernspiele bekommen automatisch die passende Höhe

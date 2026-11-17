@@ -1,0 +1,31 @@
+---
+title: "Inclusion and Exclusion: Learning Games"
+lang: en
+toc-title: "On this page"
+---
+
+Who belongs, who takes part, and on whose terms? The seminar *International Perspectives on Inclusion and Exclusion* examines how societies draw and shift these boundaries: in schools and labour markets, in citizenship law, in social services and in everyday interaction. Comparing different countries shows that the same terms can describe very different practices, and that seemingly inclusive measures can still keep people apart.
+
+Precise terms are the basis for this comparison. Exclusion, segregation, integration and inclusion are often used interchangeably in public debate, although they describe different relationships between people and institutions. A particularly common assumption is that integration already amounts to inclusion: anyone who is inside the system is considered included.
+
+The two learning games on this page help you to work with these distinctions. The memory game lets you recall ten key terms and their definitions. In the second game, you apply the four central terms to eight international cases and explain your choice. Plan about 20 minutes for both games.
+
+## Memory: terms and definitions {#sec-memory}
+
+::: {.callout-tip title="Learning game: Memory"}
+Find the ten pairs of term and definition. Each pair you find shows the definition in full.
+
+<iframe class="lernspiel" src="interactions/inclusion-exclusion-memory.html" height="760" loading="lazy" title="Memory: Inclusion and Exclusion">
+
+</iframe>
+:::
+
+## Classifying cases {#sec-faelle}
+
+::: {.callout-tip title="Learning game: Classifying cases"}
+Read each case and note in one sentence which feature decides your classification. Then choose one of the four categories. After each choice, one sentence explains why it fits or not. Use "Previous case" to look at an earlier case again.
+
+<iframe class="lernspiel" src="interactions/inclusion-exclusion-cases.html" height="700" loading="lazy" title="Classifying cases: Inclusion and Exclusion">
+
+</iframe>
+:::

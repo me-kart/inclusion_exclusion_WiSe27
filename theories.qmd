@@ -1,0 +1,263 @@
+---
+title: "Inclusion and Exclusion: Theories and Concepts"
+lang: en
+toc-title: "On this page"
+toc-depth: 3
+---
+
+This page introduces the theories that guide the seminar. They answer different questions. Social exclusion theory and welfare regimes explain how institutions regulate access. Bourdieu shows why formally equal chances are used unequally. Intersectionality and citizenship ask who counts as belonging at all. Postcolonial perspectives widen the view to global and historical hierarchies. The capability approach and human rights provide a normative standard for social work.
+
+Each theory follows the same structure: a short summary, its key claims, its main representatives and the criticism it has received. The criticism answers a question from the Comparison Grid: *What does our theory explain – and what not?*
+
+## Phase I: Understanding {#sec-phase-1}
+
+*How do societies organise inclusion and exclusion?*
+
+### Social exclusion {#sec-social-exclusion}
+
+*Session 1 · Can someone be included and excluded at the same time?*
+
+**Summary.** Social exclusion theory describes exclusion as a process, not as a fixed state. People can be cut off from income, work, rights, social relations and political participation, and these dimensions tend to reinforce each other. Hilary Silver showed that the idea of an inclusive society itself differs between countries: what counts as exclusion depends on what a society regards as the basis of belonging. Systems theory adds a second perspective: a person can be included in one social system and excluded from another at the same time.
+
+**Key claims**
+
+- Exclusion is multidimensional: economic, social, political and cultural dimensions interact.
+- Exclusion is relational: it results from the actions of institutions and other groups, not only from individual deficits.
+- National traditions frame exclusion differently. Silver distinguishes three paradigms: *solidarity* (exclusion as a breakdown of the social bond, typical of French republicanism), *specialisation* (exclusion as discrimination and blocked exchange, typical of liberal traditions) and *monopoly* (exclusion as the result of group closure and privilege).
+- In systems theory (Luhmann), modern societies include people through function systems such as the economy, law, education and health. Exclusion from one system often leads to exclusion from others.
+
+**Representatives**
+
+- Hilary Silver: *Social exclusion and social solidarity: Three paradigms* (1994); *The contexts of social inclusion* (2015)
+- Robert Castel: *Les métamorphoses de la question sociale* (1995)
+- Ruth Levitas: *The Inclusive Society? Social Exclusion and New Labour* (1998)
+- Niklas Luhmann: systems-theoretical concept of inclusion and exclusion (short input only)
+
+**Criticism**
+
+- The concept is vague and can be stretched to cover almost any disadvantage, which weakens its analytical value.
+- Policies often reduce inclusion to labour market participation; Levitas showed how this shifts attention from inequality to the individual's employability.
+- The image of "inside" and "outside" hides that most exclusion happens *within* society: people are rarely fully outside, but at its precarious margins.
+- The debate emerged in France and the European Union and does not easily fit societies with large informal sectors.
+
+### Welfare regimes {#sec-welfare-regimes}
+
+*Session 2 · How do welfare systems decide who gets support?*
+
+**Summary.** Gøsta Esping-Andersen compared welfare states in Western democracies and identified three regime types. They differ in how far they protect people from market dependence, how they stratify society and how they divide responsibility between state, market and family. The typology helps to explain why the same social risk – unemployment, illness, single parenthood – leads to very different outcomes in different countries.
+
+**Key claims**
+
+- *Decommodification* is a central criterion: the degree to which people can maintain their living standard without depending on the labour market.
+- The *liberal* regime (for example the USA, the UK) relies on the market and means-tested benefits; the *conservative-corporatist* regime (for example Germany) ties benefits to employment and status and relies on the family; the *social democratic* regime (for example Sweden) offers universal benefits based on citizenship or residence.
+- Welfare states do not only reduce inequality; they also create and stabilise their own hierarchies between groups.
+- Access to protection always has boundaries: those who do not fit the regime's logic, such as people without stable employment or legal status, fall through the net.
+
+**Representatives**
+
+- Gøsta Esping-Andersen: *The Three Worlds of Welfare Capitalism* (1990)
+- Wil Arts and John Gelissen: *Three worlds of welfare capitalism or more?* (2002), an overview of the debate
+- Ian Gough: *Globalization and regional welfare regimes: The East Asian case* (2001)
+
+**Criticism**
+
+- Feminist scholars such as Jane Lewis (1992) and Ann Orloff (1993) criticised that the typology neglects gender, unpaid care work and the male-breadwinner model.
+- The three types hardly fit welfare arrangements outside Europe and North America; researchers have proposed further regimes, for example for Southern Europe, East Asia and Latin America.
+- Most countries are hybrids, and welfare states change over time, so fixed types can obscure reforms.
+- The typology focuses on citizens and workers and says little about migrants' unequal access to social rights.
+
+### Forms of capital and habitus {#sec-bourdieu}
+
+*Session 3 · Why do equal rules produce unequal results?*
+
+**Summary.** Pierre Bourdieu explains why formally equal opportunities do not lead to equal outcomes. People bring different amounts of economic, cultural and social capital into institutions such as schools. These institutions treat the habitus of privileged groups as natural talent and reward it. Inequality is thus reproduced through seemingly neutral procedures.
+
+**Key claims**
+
+- *Economic capital* (money, property), *cultural capital* (knowledge, education, taste, credentials) and *social capital* (networks and relationships) can be converted into each other.
+- Cultural capital exists in embodied form (dispositions, language), objectified form (books, instruments) and institutionalised form (degrees and certificates).
+- *Habitus* is a system of durable dispositions shaped by one's social position; it guides perception and action largely without conscious reflection.
+- The education system legitimises social inequality by turning social background into apparently individual achievement.
+
+**Representatives**
+
+- Pierre Bourdieu: *The forms of capital* (1986); *Distinction* (French 1979, English 1984)
+- Pierre Bourdieu and Jean-Claude Passeron: *Reproduction in Education, Society and Culture* (French 1970, English 1977)
+
+**Criticism**
+
+- The concept of habitus is often read as deterministic; it leaves little room for agency, upward mobility and social change.
+- The theory was developed in the French context; what counts as legitimate culture differs between societies (Lamont and Lareau 1988).
+- Gender, ethnicity and racism play only a secondary role in Bourdieu's work.
+- The concepts are hard to measure; empirical studies often reduce cultural capital to visits to museums or the number of books at home.
+
+## Phase II: Comparing power and belonging {#sec-phase-2}
+
+*Why are some groups excluded – and how differently does this happen across contexts?*
+
+### Intersectionality and Critical Race Theory {#sec-intersectionality}
+
+*Session 4 · How do race, gender and class work together?*
+
+**Summary.** Intersectionality shows that discrimination cannot be understood as the sum of separate characteristics. Kimberlé Crenshaw developed the term from legal cases in which Black women were not protected, because courts examined either racial or sex discrimination, but not both together. Critical Race Theory (CRT) adds that racism is not an exception in otherwise neutral institutions but part of their everyday functioning.
+
+**Key claims**
+
+- Categories such as race, gender, class and disability interact and produce specific experiences of disadvantage and privilege.
+- Power relations operate on several levels at once: structural, institutional, interpersonal and in representations.
+- CRT holds that racism is ordinary and structural; formally colour-blind rules can reproduce racial inequality.
+- The perspectives and experiences of those affected are a source of knowledge (in CRT, for example, through counter-storytelling).
+
+**Representatives**
+
+- Kimberlé Crenshaw: *Demarginalizing the intersection of race and sex* (1989); *Mapping the margins* (1991)
+- Patricia Hill Collins: *Black Feminist Thought* (1990); with Sirma Bilge: *Intersectionality* (2nd ed. 2020)
+- Derrick Bell, Richard Delgado and Jean Stefancic as founding figures of Critical Race Theory
+
+**Criticism**
+
+- It remains unclear which and how many categories an analysis must include, and how they can be studied empirically (McCall 2005).
+- The approach risks fixing people in identity categories instead of analysing the processes that produce them.
+- Concepts from the US cannot be transferred directly to contexts such as Germany, where the term "race" is avoided and racism is often discussed under other headings.
+- In public debate, both approaches are strongly politicised, which makes careful use in teaching and practice more demanding.
+
+### Citizenship {#sec-citizenship}
+
+*Session 5 · Who belongs – and who has access to rights?*
+
+**Summary.** Citizenship defines who is a full member of a political community and who has which rights. T. H. Marshall described the historical development of citizenship in England as an expansion from civil to political and finally to social rights. Later research broadened the concept: citizenship includes legal status, rights, participation and a sense of belonging, and these dimensions do not always coincide.
+
+**Key claims**
+
+- Marshall distinguishes *civil rights* (freedom, property, justice), *political rights* (voting, standing for office) and *social rights* (education, social security, a decent standard of living).
+- Citizenship creates equality of status that can limit the effects of class inequality.
+- Bloemraad, Korteweg and Yurdakul distinguish four dimensions: *legal status, rights, participation* and *belonging*.
+- Formal rights do not guarantee real access: people can hold citizenship and still be treated as outsiders, and non-citizens can hold some rights through residence or human rights.
+
+**Representatives**
+
+- T. H. Marshall: *Citizenship and Social Class* (1950)
+- Rogers Brubaker: *Citizenship and Nationhood in France and Germany* (1992)
+- Yasemin Soysal: *Limits of Citizenship* (1994), on postnational membership
+- Irene Bloemraad, Anna Korteweg and Gökçe Yurdakul: *Citizenship and immigration* (2008)
+
+**Criticism**
+
+- Marshall's model is based on the English case and assumes a linear progress of rights that does not apply to many countries.
+- It largely ignores women, migrants and colonial subjects, who received rights later, partially or not at all.
+- Rights can be restricted again, as debates on social benefits for migrants show.
+- Approaches that stress postnational rights tend to underestimate how strongly the nation state still decides on residence, work and social protection.
+
+### Social model of disability {#sec-social-model}
+
+*Session 6 · Is equal access the same as real participation?*
+
+**Summary.** The social model distinguishes between *impairment*, a physical, sensory or mental condition, and *disability*, the disadvantage that society produces through barriers and exclusion. It was developed by disabled activists in Britain and moved the focus from the individual body to social structures. The model shaped the disability rights movement and the UN Convention on the Rights of Persons with Disabilities (CRPD).
+
+**Key claims**
+
+- People are disabled by barriers in buildings, communication, institutions and attitudes, not by their impairment as such.
+- The *medical model* treats disability as an individual problem to be cured or compensated; the social model treats it as a matter of rights and social change.
+- Removing barriers is a collective responsibility, not a favour to individuals.
+- Disabled people are experts on their own lives: "nothing about us without us".
+
+**Representatives**
+
+- Union of the Physically Impaired Against Segregation (UPIAS): *Fundamental Principles of Disability* (1976)
+- Michael Oliver: *The Politics of Disablement* (1990)
+- Colin Barnes: *Disabled People in Britain and Discrimination* (1991)
+- Tom Shakespeare: *The social model of disability* (2017) – a short presentation of the model that also names its limits
+
+**Criticism**
+
+- The strict separation of impairment and disability neglects the experience of the body, pain and illness; this critique came, among others, from feminist disability scholars and from Shakespeare.
+- A world entirely free of barriers is not achievable, because different impairments can require contradictory adjustments.
+- The model emerged in Britain; in contexts with widespread poverty and weak public services, impairment and poverty are closely intertwined.
+- The model explains *what* disables people but says less about *how much* real freedom they have, a gap that the capability approach addresses.
+
+### Capability approach {#sec-capability}
+
+*Session 6 · What can people actually do and be?*
+
+**Summary.** The capability approach judges well-being and justice not by income or resources, but by people's real freedoms to live a life they have reason to value. Amartya Sen developed it as an alternative to purely economic measures of development; Martha Nussbaum extended it into a theory of justice. For inclusion research, it shows why the same resources lead to different opportunities.
+
+**Key claims**
+
+- *Functionings* are what a person actually does or is, for example being educated, healthy or employed; *capabilities* are the real options a person has to achieve such functionings.
+- *Conversion factors* determine how far resources can be turned into capabilities: personal factors (for example an impairment), social factors (for example norms or discrimination) and environmental factors (for example infrastructure).
+- Agency matters: people should be able to choose between options, not merely receive outcomes.
+- Nussbaum proposes a list of central capabilities that every just society should secure at a threshold level.
+
+**Representatives**
+
+- Amartya Sen: *Commodities and Capabilities* (1985); *Development as Freedom* (1999)
+- Martha Nussbaum: *Women and Human Development* (2000); *Creating Capabilities* (2011)
+- Sophie Mitra: *The capability approach and disability* (2006)
+
+**Criticism**
+
+- The approach is difficult to operationalise; it remains open which capabilities to measure and how.
+- Sen refuses a fixed list of capabilities, while Nussbaum's universal list is criticised as paternalistic and culturally biased.
+- The focus on individual freedoms can neglect power relations, collective action and the structures that produce exclusion.
+- As a normative framework, it says what should be achieved but offers little explanation of why exclusion arises.
+
+### Postcolonial and decolonial perspectives {#sec-postcolonial}
+
+*Session 7 · Why can't we understand exclusion only within one country?*
+
+**Summary.** Postcolonial and decolonial perspectives argue that present-day exclusion cannot be understood without colonial history and global power relations. They criticise how the "West" has represented other societies and how knowledge, including knowledge in social work, still flows mainly from the Global North to the Global South. The seminar distinguishes three lenses: postcolonial theory, decolonial theory and world-systems analysis.
+
+**Key claims**
+
+- *Postcolonial theory* (Said) analyses how colonial discourses constructed "the Orient" or "the Other" as different and inferior, and how such representations continue today.
+- *Decolonial theory* (Quijano) describes a *coloniality of power*: racial classification, the global division of labour and Eurocentric knowledge outlasted formal colonialism.
+- *World-systems analysis* (Wallerstein) explains global inequality through a capitalist world economy divided into core, semi-periphery and periphery.
+- International social work has often exported Western models; decolonising social work means questioning its own theories, methods and standards (Razack).
+
+**Representatives**
+
+- Edward Said: *Orientalism* (1978)
+- Gayatri Chakravorty Spivak: *Can the subaltern speak?* (1988)
+- Immanuel Wallerstein: *The Modern World-System* (vol. 1, 1974)
+- Aníbal Quijano: *Coloniality of power, Eurocentrism, and Latin America* (2000)
+- Raewyn Connell: *Southern Theory* (2007)
+- Narda Razack: *Decolonizing the pedagogy and practice of international social work* (2009)
+
+**Criticism**
+
+- Postcolonial theory has been criticised for focusing on discourse and representation while neglecting economic structures and class (for example by Vivek Chibber, 2013).
+- World-systems analysis, in turn, is criticised as economistic; it pays little attention to culture, agency and differences within regions.
+- Talking about "the West" and "the Global South" risks homogenising very different societies.
+- The approaches are often abstract and hard to translate into concrete analysis or practice.
+
+## Phase III: Acting and reflecting {#sec-phase-3}
+
+*What can social work do without reproducing exclusion?*
+
+### Social work as a human rights profession {#sec-human-rights}
+
+*Session 8 · Does social work include – or control?*
+
+**Summary.** Social work does not stand outside the structures it analyses: it can open up participation and at the same time control, normalise and exclude. In the German debate, the *double mandate* describes the tension between help for clients and control on behalf of the state and society. Silvia Staub-Bernasconi added a third mandate based on professional knowledge, ethics and human rights. Internationally, the global definition of social work names human rights and social justice as central principles.
+
+**Key claims**
+
+- Social workers act between the interests of their clients and the expectations of the state and their employers.
+- Human rights offer a normative standard that goes beyond national law and allows social workers to criticise exclusionary rules.
+- Social work has a mandate not only for individual help but also for structural change on the meso and macro levels.
+- Historically, the profession has been closely linked to human rights internationally, but it has also taken part in exclusionary practices.
+
+**Representatives**
+
+- Lothar Böhnisch and Hans Lösch: concept of the double mandate (1973)
+- Silvia Staub-Bernasconi: *Soziale Arbeit als Handlungswissenschaft* (2007), on the triple mandate
+- Jim Ife: *Human Rights and Social Work* (3rd ed. 2012)
+- Lynne Healy: *Exploring the history of social work as a human rights profession* (2008)
+- IFSW and IASSW: *Global Definition of Social Work* (2014)
+
+**Criticism**
+
+- Universal human rights are criticised as Western; their application in other cultural contexts is contested.
+- The third mandate is self-given by the profession; critics ask how it can be legitimised against democratically decided law.
+- There is a gap between the human rights rhetoric of the profession and practice, for example where social workers are involved in implementing asylum or benefit sanctions.
+- Where social work is mainly financed by humanitarian organisations, as in Lebanon, the double mandate takes a different form, so the concept cannot be transferred unchanged.
