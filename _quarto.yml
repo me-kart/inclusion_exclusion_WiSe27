@@ -7,6 +7,7 @@ project:
   output-dir: docs            # die fertige Webseite landet in docs/
   resources:
     - "interactions/*"        # Lernspiele werden mitkopiert
+    - "fonts/*"               # Schrift Outfit (OTH), lokal eingebunden
 
 book:
   title: "International Perspectives on Inclusion and Exclusion"          # ← Titel
@@ -41,6 +42,7 @@ format:
     theme:
       - cosmo
       - styles.scss
+    css: fonts/outfit.css            # Schrift Outfit (OTH), ohne Google-Server
     number-sections: false
     toc: true
     toc-title: "On this page"

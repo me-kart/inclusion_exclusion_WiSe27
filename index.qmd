@@ -1,6 +1,8 @@
 # Welcome {.unnumbered}
 
-![](images/welcome-banner.svg){.welcome-banner fig-alt="Four circles showing exclusion, segregation, integration and inclusion: orange dots outside the circle, in a separate circle, in a small circle inside, and finally mixed with all other dots."}
+::: {.oth-frame}
+![](images/welcome-banner.svg){.welcome-banner fig-alt="Four circles showing exclusion, segregation, integration and inclusion: green dots outside the circle, in a separate circle, in a small circle inside, and finally mixed with all other dots."}
+:::
 
 Who belongs, who takes part, and on whose terms? In the seminar *International Perspectives on Inclusion and Exclusion*, we look at how societies draw these boundaries in schools, labour markets, citizenship law and social services, and how they do so differently from country to country.
 

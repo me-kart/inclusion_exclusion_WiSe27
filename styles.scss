@@ -1,14 +1,96 @@
 /*-- scss:defaults --*/
-// Farben Ihrer Hochschule hier eintragen (siehe Workshop-Skript, Kapitel 5).
-$primary: #1f5f8b !default;
-$link-color: $primary !default;
+// Corporate Design OTH Regensburg (Stand: Website 2026)
+// Schwarz als Hauptfarbe, Schrift Outfit, Graublau-Flächen,
+// Grün der Fakultät Sozial- und Gesundheitswissenschaften als Akzent.
+$oth-black:   #000000 !default;
+$success: #008c49 !default;
+$oth-dark:    #191919 !default;
+$oth-slate:   #334155 !default;
+$oth-slate-7: #64748b !default;
+$oth-slate-4: #cbd5e1 !default;
+$oth-slate-1: #f1f5f9 !default;
+$fak-green:   #008c49 !default;
+
+$primary: $oth-black !default;
+$link-color: $oth-black !default;
+$body-color: $oth-black !default;
+$headings-color: $oth-black !default;
+$font-family-sans-serif: "Outfit", "Segoe UI", Helvetica, Arial, sans-serif !default;
+$headings-font-weight: 700 !default;
+$border-radius: 0 !default;
+$border-radius-sm: 0 !default;
+$border-radius-lg: 0 !default;
 
 /*-- scss:rules --*/
+// Schrift Outfit: lokal eingebunden über fonts/outfit.css (SIL Open Font License)
+
+body { line-height: 1.6; }
+
+// Links: schwarz, grüne Unterstreichung
+a {
+  text-decoration: underline;
+  text-decoration-color: $fak-green;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  &:hover { color: $fak-green; }
+}
+
+// Seitentitel mit kurzem schwarzen Strich darüber, wie auf oth-regensburg.de
+.quarto-title h1.title, h1.title {
+  font-weight: 700;
+  &::before {
+    content: "";
+    display: block;
+    width: 3px;
+    height: 2.2rem;
+    background: $oth-black;
+    margin-bottom: 1rem;
+  }
+}
+.quarto-title .subtitle { color: $oth-slate-7; font-weight: 300; }
+h2 { font-weight: 300; border-bottom: 1px solid $oth-slate-4; }
+h3, h4 { font-weight: 700; }
+
+// Seitenleiste: Graublau, Titel mit grünem Balken (Fakultätsfarbe)
+#quarto-sidebar {
+  background: $oth-slate-1;
+  .sidebar-title {
+    font-weight: 700;
+    &::after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 5px;
+      background: $fak-green;
+      margin-top: .7rem;
+    }
+  }
+  .sidebar-item a { text-decoration: none; }
+  .sidebar-link.active {
+    font-weight: 700;
+    color: $oth-black;
+    border-left: 3px solid $fak-green;
+    padding-left: .5rem;
+  }
+}
+.sidebar-search .aa-Form, #quarto-search .aa-Form { border-radius: 0; }
+
+// Inhaltsverzeichnis rechts
+#TOC .nav-link.active, #TOC a.active { color: $oth-black; border-left-color: $fak-green; font-weight: 600; }
+#TOC a { text-decoration: none; }
+
+// Fußzeile
+.nav-footer { background: $oth-slate-1; color: $oth-slate; border-top: 1px solid $oth-slate-4; }
+
+// Hinweiskästen eckig, mit Akzentlinie
+.callout { border-radius: 0 !important; }
+.callout.callout-style-simple { border-left-width: 4px !important; }
+
 // Lernspiele: dezenter Rahmen, volle Breite
 iframe.lernspiel {
   width: 100%;
-  border: 1px solid #dee2e6;
-  border-radius: 6px;
+  border: 1px solid $oth-slate-4;
+  border-radius: 0;
   min-height: 320px;
   display: block;
 }
@@ -22,26 +104,41 @@ iframe.lernspiel {
   margin: 0.6rem 0;
 }
 
-// Willkommensseite: Titelbild und Karten
-img.welcome-banner {
-  width: 100%;
-  height: auto;
-  margin: 0.5rem 0 1.5rem;
+// Willkommensseite: Titelbild mit Schraffur-Rahmen (OTH-Bildstil)
+.oth-frame {
+  position: relative;
+  margin: 1rem 0 2rem 14px;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -14px; bottom: -14px;
+    width: 100%; height: 100%;
+    background: repeating-linear-gradient(-45deg, $oth-black 0 1px, transparent 1px 7px);
+    z-index: 0;
+  }
+  p { margin: 0; position: relative; z-index: 1; }
+  img.welcome-banner { display: block; width: 100%; height: auto; margin: 0; }
 }
+
+// Karten für die vier Seiten
 .welcome-cards { margin: 1rem 0 1.5rem; }
 .welcome-card {
-  background: #f5f9fc;
-  border: 1px solid #dbe6ef;
-  border-left: 4px solid $primary;
-  border-radius: 10px;
+  background: $oth-slate-1;
+  border: 0;
+  border-top: 5px solid $fak-green;
   padding: 1rem 1.1rem 0.4rem;
   transition: box-shadow .15s ease, transform .15s ease;
   p { margin-bottom: 0.5rem; }
-  a { text-decoration: none; }
-  &:hover { box-shadow: 0 4px 14px rgba(31, 95, 139, .15); transform: translateY(-2px); }
+  strong a { text-decoration: none; }
+  &:hover { box-shadow: 0 6px 18px rgba(0, 0, 0, .12); transform: translateY(-2px); }
 }
 .welcome-icon {
   font-size: 1.8rem;
-  color: #e07a3f;
+  color: $fak-green;
   line-height: 1;
 }
+
+// Tipp-Kästen (Lernspiele) in Fakultätsgrün statt Bootstrap-Grün
+div.callout-tip.callout { border-left-color: $fak-green !important; }
+div.callout-tip .callout-icon::before, div.callout-tip .callout-title { color: $fak-green; }
+.welcome-card strong a { font-weight: 700; }
