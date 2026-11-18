@@ -52,7 +52,7 @@ In German-speaking sociology, Niklas Luhmann used inclusion and exclusion in a d
 
 The concepts thus have several histories. Knowing these histories helps to understand why the same words carry different meanings today.
 
-# # Conclusion
+## Conclusion
 
 The concepts of inclusion and exclusion have developed through different historical, political and theoretical debates. While the modern discourse on social exclusion emerged prominently in French social policy, the concept of inclusion gained particular significance through international debates on education, disability rights and human rights.
 
