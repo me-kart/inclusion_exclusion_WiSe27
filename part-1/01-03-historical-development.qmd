@@ -44,13 +44,15 @@ These developments reflect an important conceptual shift: Rather than expecting 
 
 ## Systems theory
 
-In German-speaking sociology, Niklas Luhmann developed a distinct theoretical understanding of inclusion and exclusion within his theory of social systems.
+In German-speaking sociology, Niklas Luhmann developed a distinct theoretical understanding of inclusion and exclusion within his theory of social systems ([Luhmann 1995](https://portal.dnb.de/opac.htm?method=simpleSearch&query=9783658196813)).
 
 For Luhmann, inclusion refers to the ways in which individuals are considered as persons and addressed within the communication processes of different social systems, such as the economy, law, education and politics. Exclusion, conversely, describes situations in which individuals are not adequately considered or cannot participate in these communication processes.
 
 Importantly, inclusion and exclusion can occur simultaneously across different social systems. An individual may be legally recognized as a citizen, for example, while experiencing exclusion from the labour market or educational opportunities. Exclusion in one social context may also restrict access to opportunities in others, although such effects are not automatic.
 
 Luhmann's approach therefore challenges the assumption that individuals are either fully included in or completely excluded from society. Instead, it draws attention to the different conditions of participation across modern society's function systems.
+
+[Source: Luhmann, Niklas (1995): Inklusion und Exklusion. In: *Soziologische Aufklärung 6. Die Soziologie und der Mensch*. Opladen: Westdeutscher Verlag, pp. 237–264.]{.small .text-muted}
 
 ## Conclusion
 
