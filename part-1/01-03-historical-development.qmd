@@ -8,33 +8,37 @@ The concepts of inclusion and exclusion have a relatively recent history in publ
 
 Classical sociology already addressed questions of social belonging, boundaries and exclusion, even though the concepts of social inclusion and exclusion had not yet acquired their contemporary meaning.
 
-Max Weber described social closure as a process through which groups restrict access to resources, opportunities and social positions in order to protect their advantages. Georg Simmel analysed the figure of the stranger, who is simultaneously part of a social group and positioned at a certain distance from it. Norbert Elias and John L. Scotson, in their study The Established and the Outsiders (1965), demonstrated how established groups maintain their social position by excluding and stigmatizing newcomers. Their analysis highlighted the importance of unequal power relations, group cohesion and social reputation in processes of inclusion and exclusion.
+Max Weber described *social closure* as a process through which groups restrict access to resources, opportunities and social positions in order to protect their advantages. Georg Simmel analysed the figure of *the stranger*, who is simultaneously part of a social group and positioned at a certain distance from it. Norbert Elias and John L. Scotson, in their study *The Established and the Outsiders* (1965), demonstrated how established groups maintain their social position by excluding and stigmatizing newcomers. Their analysis highlighted the importance of unequal power relations, group cohesion and social reputation in processes of inclusion and exclusion.
 
 These approaches provide important foundations for understanding how social boundaries are constructed and maintained.
+
+## Exclusion in French social policy
+
+The modern political and academic debate on social exclusion gained particular prominence in France during the 1970s. A major milestone was the publication of René Lenoir's *Les exclus: Un Français sur dix* (1974). Lenoir drew attention to population groups that were not sufficiently included in the country's economic and social development, including people with physical and intellectual disabilities, older people and other socially disadvantaged groups.
+
+The concept gained renewed significance during the 1980s and 1990s, particularly in debates about long-term unemployment, poverty, social marginalization and the crisis of the welfare state.
+
+Robert Castel subsequently developed the concept of *désaffiliation* to describe processes through which individuals gradually lose their integration into employment and stable social relationships. His approach highlights the relationship between economic insecurity, the weakening of social ties and the risk of social exclusion.
 
 ## European and international policy
 
 From the late 1980s onwards, the concept of social exclusion increasingly shaped European social policy. The European Community explicitly addressed social exclusion in a Council Resolution in 1989. With the entry into force of the Treaty of Amsterdam in 1999, combating social exclusion became an explicit objective of European social policy.
 
-In 2001, the European Council adopted common indicators for monitoring social inclusion, known as the Laeken indicators. In 2010, the European Union introduced the indicator At Risk of Poverty or Social Exclusion (AROPE) within the framework of the Europe 2020 strategy.
+In 2001, the European Council adopted common indicators for monitoring social inclusion, known as the Laeken indicators. In 2010, the European Union introduced the indicator *At Risk of Poverty or Social Exclusion* (AROPE) within the framework of the Europe 2020 strategy.
 
 These developments reflected a broader understanding of poverty and disadvantage. Social exclusion was no longer understood solely as a lack of income, but increasingly as a multidimensional process involving restricted access to employment, education, social relationships, political participation and other areas of social life.
 
 In parallel, sociologists developed different theoretical interpretations of social exclusion. Hilary Silver (1994) identified three paradigms:
 
-Solidarity Paradigm: Exclusion results from a breakdown of social solidarity and the bonds connecting individuals to society.
-
-Specialization Paradigm: Exclusion is understood in terms of differentiation, individual choices and unequal access to opportunities and resources.
-
-Monopoly Paradigm: Powerful groups restrict access to resources, rights and opportunities in order to protect their advantages.
+- **Solidarity paradigm:** Exclusion results from a breakdown of social solidarity and the bonds connecting individuals to society.
+- **Specialization paradigm:** Exclusion is understood in terms of differentiation, individual choices and unequal access to opportunities and resources.
+- **Monopoly paradigm:** Powerful groups restrict access to resources, rights and opportunities in order to protect their advantages.
 
 Ruth Levitas (1998) further demonstrated that political debates use the concept of social exclusion in different ways. She distinguished three discourses:
 
-Redistributionist Discourse (RED): Focuses on poverty, economic inequality and the redistribution of resources.
-
-Social Integrationist Discourse (SID): Emphasizes participation in paid employment as a central mechanism of social integration.
-
-Moral Underclass Discourse (MUD): Attributes exclusion to the behaviour, values or alleged cultural deficiencies of excluded individuals and groups.
+- **Redistributionist discourse (RED):** Focuses on poverty, economic inequality and the redistribution of resources.
+- **Social integrationist discourse (SID):** Emphasizes participation in paid employment as a central mechanism of social integration.
+- **Moral underclass discourse (MUD):** Attributes exclusion to the behaviour, values or alleged cultural deficiencies of excluded individuals and groups.
 
 These approaches demonstrate that the understanding of social exclusion is closely connected to broader political assumptions about inequality, individual responsibility and the role of the state.
 
@@ -48,9 +52,13 @@ These developments reflect an important conceptual shift: Rather than expecting 
 
 ## Systems theory
 
-In German-speaking sociology, Niklas Luhmann used inclusion and exclusion in a different sense. For him, inclusion means that persons are taken into account by function systems such as the economy, law or education. Exclusion in one system can trigger exclusion in others.
+In German-speaking sociology, Niklas Luhmann developed a distinct theoretical understanding of inclusion and exclusion within his theory of social systems.
 
-The concepts thus have several histories. Knowing these histories helps to understand why the same words carry different meanings today.
+For Luhmann, inclusion refers to the ways in which individuals are considered as persons and addressed within the communication processes of different social systems, such as the economy, law, education and politics. Exclusion, conversely, describes situations in which individuals are not adequately considered or cannot participate in these communication processes.
+
+Importantly, inclusion and exclusion can occur simultaneously across different social systems. An individual may be legally recognized as a citizen, for example, while experiencing exclusion from the labour market or educational opportunities. Exclusion in one social context may also restrict access to opportunities in others, although such effects are not automatic.
+
+Luhmann's approach therefore challenges the assumption that individuals are either fully included in or completely excluded from society. Instead, it draws attention to the different conditions of participation across modern society's function systems.
 
 ## Conclusion
 
@@ -61,5 +69,5 @@ Sociological theories, political approaches and international human rights frame
 Understanding these different histories is essential for analysing why inclusion and exclusion have multiple meanings today and how they shape contemporary societies.
 
 ::: {.callout-note title="Reflection question"}
-Compare the French debate on *exclusion* with the disability rights debate on *inclusion*. What problem does each of them address, and what solution do they suggest?
+Compare the French debate on *social exclusion* with the disability rights debate on *inclusion*. What problems does each approach address, what assumptions do they make about the relationship between individuals and society, and what solutions do they propose?
 :::
