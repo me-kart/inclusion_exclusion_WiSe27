@@ -26,12 +26,110 @@ The final session brings the perspectives of the seminar together and asks how i
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Social Resilience
-- Empowerment
-- Inclusive Governance
-- Sustainable Development Goals (SDGs)
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Social Resilience]{.theory-link data-theory="res"}
+- [Empowerment]{.theory-link data-theory="emp"}
+- [Inclusive Governance]{.theory-link data-theory="gov"}
+- [Sustainable Development Goals (SDGs)]{.theory-link data-theory="sdg"}
 :::
 
+:::
+
+::: {#theory-res .theory-panel}
+### Social Resilience
+
+**Core idea.** Social resilience describes the ability of individuals, communities and societies to cope with crises, adapt to change and, where necessary, transform. In the face of climate change, economic crises and pandemics, the concept has gained great importance.
+
+**Aim of the theory.** To understand how social groups and institutions can deal with shocks and long-term change without losing participation and cohesion.
+
+**Key claims**
+
+- Resilience includes **coping capacities** (dealing with immediate shocks), **adaptive capacities** (learning and adjusting) and **transformative capacities** (changing structures).
+- Resilience depends on resources, social networks, institutions and power relations.
+- Resilience is unequally distributed: marginalised groups often have fewer resources to cope.
+- Collective resilience can be strengthened through social cohesion, trust and functioning institutions.
+- Transformation means changing the conditions that produce vulnerability in the first place.
+
+**Key concepts:** coping, adaptive and transformative capacities · vulnerability · social capital · cohesion · transformation
+
+**Criticism.** Critics argue that the resilience concept can depoliticise inequality and shift responsibility to individuals and communities ("be resilient") instead of changing structures.
+
+**Relevance for inclusion and exclusion.** For social work, resilience is a familiar concept at the individual level. At the societal level, it raises the question of how institutions can protect marginalised groups in crises.
+
+**Key reading:** Keck, M./Sakdapolrak, P. (2013): What Is Social Resilience? Lessons Learned and Ways Forward. *Erdkunde* 67 (1), 5–19.
+:::
+
+::: {#theory-emp .theory-panel}
+### Empowerment
+
+**Core idea.** Empowerment refers to processes in which people and groups gain more control over their lives and the conditions that affect them. It has roots in social movements, community psychology and Paulo Freire's pedagogy of the oppressed.
+
+**Aim of the theory.** To strengthen the self-determination and collective agency of marginalised people instead of treating them as passive recipients of help.
+
+**Key claims**
+
+- Empowerment works at several levels: **individual**, **group/community** and **structural/political**.
+- Paulo Freire describes education as a process of critical consciousness (*conscientização*) through which people recognise and change oppressive conditions.
+- Julian Rappaport understands empowerment as a process by which people gain mastery over their affairs.
+- Empowerment focuses on strengths and resources rather than deficits.
+- Professionals act as facilitators, not as experts who decide for others.
+
+**Key concepts:** self-determination · critical consciousness · strengths perspective · collective agency · participation
+
+**Criticism.** Critics warn that empowerment is often reduced to individual self-optimisation and used to justify withdrawal of state support. There is also a paradox: can one "empower" others from above?
+
+**Relevance for inclusion and exclusion.** Empowerment is a key principle of social work. It links inclusion with participation and power: inclusion means not only being included, but being able to shape conditions.
+
+**Key reading:** Freire, P. (1970): *Pedagogy of the Oppressed.* New York: Herder and Herder. · Rappaport, J. (1987): Terms of Empowerment/Exemplars of Prevention. *American Journal of Community Psychology* 15 (2), 121–148.
+:::
+
+::: {#theory-gov .theory-panel}
+### Inclusive Governance
+
+**Core idea.** Inclusive governance means that decisions in politics and public institutions are made with the participation of those affected, especially marginalised groups. It concerns not only outcomes, but the processes of decision-making.
+
+**Aim of the theory.** To make institutions more responsive, legitimate and just by broadening participation in decision-making.
+
+**Key claims**
+
+- Participation can range from information and consultation to real co-decision and control.
+- Sherry Arnstein's **ladder of citizen participation** distinguishes non-participation, tokenism and citizen power.
+- Inclusive governance requires accessible procedures, resources and the removal of barriers.
+- The principle "nothing about us without us" from the disability rights movement expresses this claim.
+- Inclusive governance links inclusion with democracy and representation.
+
+**Key concepts:** participation · ladder of participation · tokenism · co-production · representation · accountability
+
+**Criticism.** Participation processes are often criticised as symbolic. Those with more resources tend to participate more, which can reproduce inequality.
+
+**Relevance for inclusion and exclusion.** Inclusive governance calls on social work to enable participation of addressees, both in services and in local politics, and to avoid merely symbolic involvement.
+
+**Key reading:** Arnstein, S. R. (1969): A Ladder of Citizen Participation. *Journal of the American Institute of Planners* 35 (4), 216–224. · Fung, A. (2006): Varieties of Participation in Complex Governance. *Public Administration Review* 66, 66–75.
+:::
+
+::: {#theory-sdg .theory-panel}
+### Sustainable Development Goals (SDGs)
+
+**Core idea.** In 2015, the member states of the United Nations adopted the 2030 Agenda for Sustainable Development with 17 goals and 169 targets. Unlike earlier development goals, the SDGs apply to all countries and link social, economic and ecological dimensions.
+
+**Aim of the theory.** To provide a global framework for sustainable development that "leaves no one behind".
+
+**Key claims**
+
+- The SDGs include goals on poverty (SDG 1), education (SDG 4), gender equality (SDG 5), decent work (SDG 8) and reduced inequalities (SDG 10).
+- The principle of **leave no one behind** places the most marginalised groups at the centre.
+- The goals are **universal**: they apply to the Global North as well as the Global South.
+- Social, economic and ecological sustainability are understood as interconnected.
+- Progress is monitored through indicators and national reviews.
+
+**Key concepts:** 2030 Agenda · leave no one behind · universality · SDG 10 · indicators · sustainability
+
+**Criticism.** Critics point to the large number of goals, their non-binding character and tensions between economic growth and ecological limits. UN progress reports show that many targets are off track.
+
+**Relevance for inclusion and exclusion.** The SDGs offer a common reference framework for inclusion policies. For social work, they provide arguments for linking local practice with global goals.
+
+**Key reading:** United Nations (2015): *Transforming Our World: The 2030 Agenda for Sustainable Development.* A/RES/70/1. New York: United Nations.
 :::
 
 ::: {.placeholder}

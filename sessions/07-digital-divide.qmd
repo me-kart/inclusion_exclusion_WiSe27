@@ -24,11 +24,85 @@ This session asks whether digitalisation opens up new opportunities for particip
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Digital Divide Theory (Jan van Dijk)
-- Digital Inequality
-- Digital Citizenship
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Digital Divide Theory (Jan van Dijk)]{.theory-link data-theory="dd"}
+- [Digital Inequality]{.theory-link data-theory="di"}
+- [Digital Citizenship]{.theory-link data-theory="dc"}
 :::
 
+:::
+
+::: {#theory-dd .theory-panel}
+### Digital Divide Theory · Jan van Dijk
+
+**Core idea.** The digital divide is not only a question of whether someone has internet access. Jan van Dijk developed a model of successive kinds of access: from motivation through material access and skills to actual usage. Inequality can arise at each stage.
+
+**Aim of the theory.** To explain why digital inequality persists even when access to devices and internet becomes widespread.
+
+**Key claims**
+
+- Access is a process with four stages: **motivational**, **material**, **skills** and **usage** access.
+- Categorical inequalities (e.g. age, gender, education, income) lead to unequal distribution of resources.
+- Unequal resources lead to unequal access to digital technologies.
+- Unequal access leads to unequal participation in society, which in turn reinforces existing inequalities.
+- Research distinguishes three levels: access (first-level), skills and use (second-level) and outcomes (third-level divide).
+
+**Key concepts:** motivational, material, skills and usage access · resources and appropriation theory · first-, second- and third-level divide
+
+**Criticism.** Critics note that the model is complex to test empirically and that it treats digital use mainly as an individual matter. Rapid technological change also challenges stable categories.
+
+**Relevance for inclusion and exclusion.** The theory shows why simply providing devices is not enough. For social work, skills, motivation and support are key to digital inclusion.
+
+**Key reading:** van Dijk, J. (2020): *The Digital Divide.* Cambridge: Polity.
+:::
+
+::: {#theory-di .theory-panel}
+### Digital Inequality
+
+**Core idea.** Digital inequality describes differences in how people access, use and benefit from digital technologies. The concept goes beyond the binary "have" and "have not" and focuses on how digital and social inequalities are intertwined.
+
+**Aim of the theory.** To analyse how digital differences reproduce or reinforce existing social inequalities.
+
+**Key claims**
+
+- Differences exist in the quality of equipment, autonomy of use, skills, social support and purposes of use.
+- People with more education and resources tend to use the internet for activities that bring them more benefits (e.g. education, career, finance).
+- Digital and offline inequalities reinforce each other.
+- As public services move online, digital exclusion becomes social exclusion.
+- Digital inequality is therefore a central dimension of social stratification.
+
+**Key concepts:** differentiated use · autonomy · skills · outcomes · compound disadvantage · digital and social stratification
+
+**Criticism.** Critics argue that research often measures digital inequality at the individual level and neglects platform power and infrastructures. Results also quickly become outdated.
+
+**Relevance for inclusion and exclusion.** Digital inequality affects many addressees of social work, for example older people, people with low incomes or refugees. Digital services can raise barriers to access to benefits.
+
+**Key reading:** DiMaggio, P./Hargittai, E. (2001): *From the "Digital Divide" to "Digital Inequality".* Working Paper, Princeton University. · Robinson, L. et al. (2015): Digital Inequalities and Why They Matter. *Information, Communication & Society* 18 (5), 569–582.
+:::
+
+::: {#theory-dc .theory-panel}
+### Digital Citizenship
+
+**Core idea.** Digital citizenship refers to the ability and the right to participate in society online. It includes access and skills, but also rights, responsibilities and political participation in digital spaces.
+
+**Aim of the theory.** To link digital participation with concepts of citizenship, rights and democracy.
+
+**Key claims**
+
+- Karen Mossberger and colleagues define digital citizens as those who use the internet regularly and effectively.
+- Digital participation is increasingly a precondition for economic, social and political participation.
+- Digital citizenship also includes rights, such as data protection, freedom of expression and protection from discrimination.
+- Other authors stress that citizenship is enacted online through acts of claiming rights and contesting power.
+- Digital citizenship is unequally distributed and mirrors social inequalities.
+
+**Key concepts:** online participation · digital rights · acts of citizenship · data protection · democratic inclusion
+
+**Criticism.** Critics warn that digital citizenship may be used to place responsibility on individuals ("be a responsible user") while ignoring the power of platforms and states.
+
+**Relevance for inclusion and exclusion.** The concept connects digital inclusion with democracy and rights. It asks how social work can strengthen the digital participation and rights of marginalised groups.
+
+**Key reading:** Mossberger, K./Tolbert, C. J./McNeal, R. S. (2008): *Digital Citizenship: The Internet, Society, and Participation.* Cambridge, MA: MIT Press. · Isin, E./Ruppert, E. (2020): *Being Digital Citizens.* 2nd ed. London: Rowman & Littlefield.
 :::
 
 ::: {.placeholder}

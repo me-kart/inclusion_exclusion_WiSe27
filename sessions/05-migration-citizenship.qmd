@@ -25,12 +25,110 @@ This session looks at migration and global mobility as central dimensions of inc
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Transnationalism
-- Postnational Citizenship (Yasemin Soysal)
-- Superdiversity (Steven Vertovec)
-- Border Regimes
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Transnationalism]{.theory-link data-theory="trans"}
+- [Postnational Citizenship (Yasemin Soysal)]{.theory-link data-theory="postnat"}
+- [Superdiversity (Steven Vertovec)]{.theory-link data-theory="super"}
+- [Border Regimes]{.theory-link data-theory="border"}
 :::
 
+:::
+
+::: {#theory-trans .theory-panel}
+### Transnationalism
+
+**Core idea.** Many migrants do not simply leave one country and integrate into another. They live their lives across borders: they maintain family ties, send remittances, take part in politics and build networks in several countries at once. Transnationalism describes these cross-border social fields.
+
+**Aim of the theory.** To overcome the idea that migration is a one-way movement ending in assimilation and to make cross-border lives visible.
+
+**Key claims**
+
+- Migrants build **transnational social fields** or spaces that connect places of origin and destination.
+- Belonging and identity can be multiple and simultaneous.
+- Remittances, communication technologies and cheap travel make transnational lives easier.
+- Research criticises **methodological nationalism**: the tendency to treat the nation-state as the natural container of society.
+- Transnationalism does not replace integration; both can occur at the same time.
+
+**Key concepts:** transnational social fields · simultaneity · multiple belonging · remittances · methodological nationalism
+
+**Criticism.** Critics argue that the novelty of transnationalism is overstated and that only part of migrants live transnationally. The concept may also underestimate the continuing power of nation-states and borders.
+
+**Relevance for inclusion and exclusion.** Transnational perspectives help social work to understand family obligations, cross-border care and divided loyalties, instead of reading them as a lack of integration.
+
+**Key reading:** Glick Schiller, N./Basch, L./Szanton Blanc, C. (1992): Towards a Transnational Perspective on Migration. *Annals of the New York Academy of Sciences* 645. · Levitt, P./Glick Schiller, N. (2004): Conceptualizing Simultaneity. *International Migration Review* 38 (3), 1002–1039.
+:::
+
+::: {#theory-postnat .theory-panel}
+### Postnational Citizenship · Yasemin Soysal
+
+**Core idea.** Rights are no longer tied exclusively to national citizenship. Using the example of guest workers in Europe, Yasemin Soysal showed that long-term residents without citizenship gained many social and civil rights. The basis is universal personhood and international human rights norms.
+
+**Aim of the theory.** To explain why non-citizens obtain rights and to describe a shift from national to postnational models of membership.
+
+**Key claims**
+
+- The legitimacy of rights increasingly rests on **personhood**, not on nationality.
+- International human rights discourse and institutions shape national policies.
+- Long-term residents without citizenship enjoy many rights similar to those of citizens (often called **denizens**).
+- Membership becomes more differentiated and less bound to the nation-state.
+- At the same time, nation-states remain responsible for implementing these rights.
+
+**Key concepts:** postnational membership · personhood · universal human rights · denizenship · guest workers
+
+**Criticism.** Critics such as Christian Joppke argue that nation-states remain decisive and that citizenship has not lost its importance. Recent restrictions in asylum and migration policy also challenge the postnational thesis.
+
+**Relevance for inclusion and exclusion.** The concept helps to analyse graduated rights: who has which rights with which status? It shows that inclusion is possible without citizenship, but also that it remains fragile.
+
+**Key reading:** Soysal, Y. N. (1994): *Limits of Citizenship: Migrants and Postnational Membership in Europe.* Chicago: University of Chicago Press.
+:::
+
+::: {#theory-super .theory-panel}
+### Superdiversity · Steven Vertovec
+
+**Core idea.** Migration has become more complex. Steven Vertovec uses the term superdiversity to describe the "diversification of diversity": migrants differ not only in origin, but also in legal status, language, religion, gender, age, education and migration channels.
+
+**Aim of the theory.** To overcome simple ethnic categories in research and policy and to grasp the complexity of contemporary migration societies.
+
+**Key claims**
+
+- Diversity can no longer be adequately described by ethnicity or country of origin alone.
+- **Legal status** (e.g. refugee, student, labour migrant, undocumented) is a central and often overlooked dimension.
+- Different variables interact and create very different life situations within one "group".
+- Policies and services based on ethnic categories therefore miss many needs.
+- Superdiverse neighbourhoods are characterised by everyday encounters across many differences.
+
+**Key concepts:** diversification of diversity · legal status · multidimensionality · migration channels · urban diversity
+
+**Criticism.** The concept is criticised as mainly descriptive and as obscuring power relations and racism. Some argue that it is less new than it claims and that it might relativise structural inequalities.
+
+**Relevance for inclusion and exclusion.** Superdiversity calls on social work to look beyond ethnic labels and to consider legal status and other dimensions. It links well with intersectional perspectives.
+
+**Key reading:** Vertovec, S. (2007): Super-diversity and its Implications. *Ethnic and Racial Studies* 30 (6), 1024–1054.
+:::
+
+::: {#theory-border .theory-panel}
+### Border Regimes
+
+**Core idea.** Borders are not just lines on a map. They are complex regimes of laws, technologies, institutions and practices that regulate who may move, stay and access rights. Border regime research analyses borders as contested social relations.
+
+**Aim of the theory.** To understand how borders sort people and produce different statuses, and how migrants themselves shape border regimes.
+
+**Key claims**
+
+- A **regime** is an ensemble of actors, rules, discourses and practices without a single centre of control.
+- Borders are increasingly **externalised**: controls take place far beyond state territory, for example through agreements with transit countries.
+- Borders also operate within states, for example through residence status, controls and access to services.
+- Borders produce **differential inclusion**: people are included, but with fewer rights and under precarious conditions.
+- The perspective of the **autonomy of migration** stresses that migrants' movements challenge and reshape border regimes.
+
+**Key concepts:** border regime · externalisation · differential inclusion · autonomy of migration · deportability
+
+**Criticism.** Critics argue that the regime concept may obscure clear responsibilities of states and that the autonomy of migration perspective may underestimate the violence and death at borders.
+
+**Relevance for inclusion and exclusion.** Border regimes show how legal exclusion is produced. For social work, residence status often decides on access to housing, work, health and education.
+
+**Key reading:** Mezzadra, S./Neilson, B. (2013): *Border as Method, or, the Multiplication of Labor.* Durham: Duke University Press.
 :::
 
 ::: {.placeholder}

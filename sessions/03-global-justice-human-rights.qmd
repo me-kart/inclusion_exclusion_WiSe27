@@ -24,12 +24,110 @@ This session deals with the normative foundations of inclusion: international hu
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Global Justice (Thomas Pogge)
-- Capability Approach (Amartya Sen, Martha Nussbaum)
-- Human Rights Approach
-- Social Citizenship
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Global Justice (Thomas Pogge)]{.theory-link data-theory="pogge"}
+- [Capability Approach (Amartya Sen, Martha Nussbaum)]{.theory-link data-theory="cap"}
+- [Human Rights Approach]{.theory-link data-theory="hra"}
+- [Social Citizenship]{.theory-link data-theory="socit"}
 :::
 
+:::
+
+::: {#theory-pogge .theory-panel}
+### Global Justice · Thomas Pogge
+
+**Core idea.** Severe poverty in the world is not only a misfortune that rich countries could help to alleviate. According to Thomas Pogge, it is also an injustice for which they share responsibility, because they uphold a global institutional order that foreseeably produces poverty.
+
+**Aim of the theory.** To show that citizens and governments of rich countries violate not only positive duties to help, but negative duties not to harm the global poor.
+
+**Key claims**
+
+- Rules of the global order, for example in trade, intellectual property and international lending, are shaped by powerful states and benefit them.
+- These rules contribute to avoidable poverty in poorer countries.
+- Whoever upholds an unjust order that harms others violates a negative duty.
+- Global poverty is therefore a question of justice and human rights, not only of charity.
+- Pogge proposes reforms such as a **Global Resources Dividend**, a small levy on the use of natural resources.
+
+**Key concepts:** global institutional order · negative and positive duties · human rights · global poverty · Global Resources Dividend
+
+**Criticism.** Critics question how far global rules really cause poverty compared with national factors such as governance, conflicts or elites. The proposed reforms are also seen as difficult to implement.
+
+**Relevance for inclusion and exclusion.** The approach shifts the view from individual deficits and "aid" to structural responsibility. It helps to analyse exclusion as a consequence of political decisions that can be changed.
+
+**Key reading:** Pogge, T. (2002/2008): *World Poverty and Human Rights.* Cambridge: Polity.
+:::
+
+::: {#theory-cap .theory-panel}
+### Capability Approach · Amartya Sen, Martha Nussbaum
+
+**Core idea.** Justice and well-being should not be measured only by income or resources, but by what people are actually able to do and to be. The capability approach asks about people's real freedoms to lead a life they have reason to value.
+
+**Aim of the theory.** To offer an alternative to income-based measures of poverty and to utilitarian concepts of welfare.
+
+**Key claims**
+
+- **Functionings** are what a person actually does or is (being well nourished, being educated, taking part in community life).
+- **Capabilities** are the real opportunities to achieve such functionings.
+- The same resources lead to different capabilities, depending on **conversion factors**: personal (e.g. disability), social (e.g. discrimination) and environmental ones.
+- Amartya Sen deliberately leaves the list of relevant capabilities open; it should be determined through public reasoning.
+- Martha Nussbaum proposes a list of ten **central capabilities** that every just society must guarantee at a threshold level, grounded in human dignity.
+
+**Key concepts:** functionings · capabilities · conversion factors · agency · central capabilities · human dignity
+
+**Criticism.** Sen's approach is criticised as underspecified and difficult to operationalise. Nussbaum's list is accused of paternalism and of universalising particular values. Both are seen by some as too individualistic.
+
+**Relevance for inclusion and exclusion.** The approach explains why formal access is not enough: people with the same rights or income may have very different opportunities. It is widely used in social work and disability research and underlies the UNDP Human Development Index.
+
+**Key reading:** Sen, A. (1999): *Development as Freedom.* Oxford: Oxford University Press. · Nussbaum, M. C. (2011): *Creating Capabilities: The Human Development Approach.* Cambridge, MA: Harvard University Press.
+:::
+
+::: {#theory-hra .theory-panel}
+### Human Rights Approach
+
+**Core idea.** The human rights approach understands people not as recipients of charity, but as holders of rights. States are duty-bearers who must respect, protect and fulfil these rights. Development, social policy and social services are measured against these standards.
+
+**Aim of the theory.** To ground inclusion in binding legal and ethical norms and to strengthen the position of marginalised people.
+
+**Key claims**
+
+- All people are **rights-holders**; states and other institutions are **duty-bearers**.
+- Human rights are universal, indivisible and interdependent: civil and political rights belong together with economic, social and cultural rights.
+- Core principles are participation, non-discrimination, accountability, empowerment and the rule of law.
+- Particular attention is given to the most marginalised groups.
+- Social work has described itself as a human rights profession; the IFSW definition names human rights as a central principle.
+
+**Key concepts:** rights-holders and duty-bearers · respect, protect, fulfil · indivisibility · non-discrimination · accountability · human rights profession
+
+**Criticism.** Critics point to a gap between proclaimed rights and their implementation, to the danger of legalism, and to the question of whether human rights are universal or reflect Western traditions.
+
+**Relevance for inclusion and exclusion.** The approach provides a normative standard against which exclusion can be named and challenged. It gives social work an independent mandate beyond the instructions of funders and the state.
+
+**Key reading:** United Nations (2003): *The Human Rights Based Approach to Development Cooperation: Towards a Common Understanding Among UN Agencies.* · Ife, J. (2012): *Human Rights and Social Work.* 3rd ed. Cambridge: Cambridge University Press.
+:::
+
+::: {#theory-socit .theory-panel}
+### Social Citizenship · T. H. Marshall
+
+**Core idea.** Full membership in society requires more than civil and political rights. According to T. H. Marshall, it also needs social rights: a minimum of economic welfare and security and the right to share in the social heritage and to live according to the standards prevailing in society.
+
+**Aim of the theory.** To explain how the welfare state can mitigate the inequalities of capitalist class society by granting equal status as citizens.
+
+**Key claims**
+
+- Marshall distinguishes three elements of citizenship: **civil**, **political** and **social** rights.
+- In England, they developed historically in sequence: civil rights in the 18th, political rights in the 19th and social rights in the 20th century.
+- Social rights are realised above all through education, health care and social services.
+- Citizenship creates equal status, which stands in tension with the inequality of the market.
+- Social citizenship thus becomes a key concept for the welfare state.
+
+**Key concepts:** civil, political and social rights · equality of status · welfare state · class · membership
+
+**Criticism.** The model is criticised as Anglocentric and as too linear. Feminist scholars such as Ruth Lister show that it neglects gender and unpaid care work. It also says little about people without citizenship, such as migrants.
+
+**Relevance for inclusion and exclusion.** The concept links social rights to membership, which raises the question of who is included and who is excluded, for example non-citizens. It connects this session with Sessions 4 and 5.
+
+**Key reading:** Marshall, T. H. (1950): *Citizenship and Social Class and Other Essays.* Cambridge: Cambridge University Press. · Lister, R. (2003): *Citizenship: Feminist Perspectives.* 2nd ed. Basingstoke: Palgrave.
 :::
 
 ::: {.placeholder}

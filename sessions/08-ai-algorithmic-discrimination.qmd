@@ -24,11 +24,85 @@ This session examines how artificial intelligence and algorithmic decision-makin
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Algorithmic Bias
-- Algorithmic Discrimination (Safiya Umoja Noble)
-- Surveillance Studies (David Lyon)
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Algorithmic Bias]{.theory-link data-theory="ab"}
+- [Algorithmic Discrimination (Safiya Umoja Noble)]{.theory-link data-theory="ad"}
+- [Surveillance Studies (David Lyon)]{.theory-link data-theory="surv"}
 :::
 
+:::
+
+::: {#theory-ab .theory-panel}
+### Algorithmic Bias
+
+**Core idea.** Algorithmic systems are often presented as neutral and objective. In practice, they can produce systematically unfair results for certain groups. Algorithmic bias describes such distortions, which arise from data, design decisions or the context of use.
+
+**Aim of the theory.** To understand how and why automated systems discriminate and how such effects can be identified and reduced.
+
+**Key claims**
+
+- Algorithms learn from historical data; if these data reflect discrimination, the system reproduces it.
+- **Proxy variables** such as postcode or name can stand in for protected characteristics such as ethnicity.
+- **Feedback loops** can reinforce bias, for example in predictive policing.
+- Well-known examples include risk assessment in criminal justice in the USA and the Dutch childcare benefits scandal, in which a risk model contributed to the wrongful targeting of families, many with a migration background.
+- Bias can arise at every stage: problem definition, data collection, model design and use.
+
+**Key concepts:** training data · proxy variables · feedback loops · fairness · transparency · accountability
+
+**Criticism.** There is no single definition of fairness; different fairness criteria can be mathematically incompatible. Technical fixes alone cannot solve problems rooted in social inequality.
+
+**Relevance for inclusion and exclusion.** Algorithmic systems are increasingly used in welfare administration, employment services and child protection. Social work must understand their risks and advocate for affected people.
+
+**Key reading:** Barocas, S./Selbst, A. D. (2016): Big Data's Disparate Impact. *California Law Review* 104, 671–732. · Eubanks, V. (2018): *Automating Inequality.* New York: St. Martin's Press.
+:::
+
+::: {#theory-ad .theory-panel}
+### Algorithmic Discrimination · Safiya Umoja Noble
+
+**Core idea.** In *Algorithms of Oppression*, Safiya Umoja Noble shows how search engines reproduce racist and sexist stereotypes, especially about Black women and girls. She argues that such results are not accidental errors, but a consequence of commercial interests and social power relations.
+
+**Aim of the theory.** To show that digital technologies are not neutral and to analyse how they reinforce racism and sexism.
+
+**Key claims**
+
+- Search results reflect and amplify dominant stereotypes.
+- The commercial logic of search engines, based on advertising, shapes what becomes visible.
+- Marginalised groups have little control over how they are represented online.
+- "Technological redlining" describes how digital systems reinforce existing social exclusions.
+- Public information should not be left solely to private, profit-oriented companies.
+
+**Key concepts:** technological redlining · representation · search engines · commercial logic · intersectionality
+
+**Criticism.** Some critics argue that the focus on individual examples makes it difficult to generalise. Search engines have also changed since the study, although the underlying problems remain topical.
+
+**Relevance for inclusion and exclusion.** The approach links digital technologies to racism and sexism. It sensitises students and practitioners to how online representations shape the image of marginalised groups.
+
+**Key reading:** Noble, S. U. (2018): *Algorithms of Oppression: How Search Engines Reinforce Racism.* New York: NYU Press. · Benjamin, R. (2019): *Race After Technology.* Cambridge: Polity.
+:::
+
+::: {#theory-surv .theory-panel}
+### Surveillance Studies · David Lyon
+
+**Core idea.** Surveillance is a central feature of modern societies. David Lyon understands it as the systematic collection and processing of personal data in order to influence or manage people. He emphasises that surveillance sorts people into categories with unequal consequences.
+
+**Aim of the theory.** To analyse surveillance not only as a threat to privacy, but as a social practice that produces inequality.
+
+**Key claims**
+
+- Surveillance is everyday and ubiquitous: in workplaces, consumption, migration control, social services and online platforms.
+- Surveillance works as **social sorting**: people are classified, and these classifications affect their life chances.
+- Marginalised groups, such as benefit recipients, migrants or racialised minorities, are often subject to more intensive surveillance.
+- Data collected for one purpose are increasingly used for others.
+- Shoshana Zuboff describes a "surveillance capitalism" in which personal data become a commodity.
+
+**Key concepts:** social sorting · dataveillance · surveillance capitalism · privacy · categorisation · control
+
+**Criticism.** Critics argue that the concept of surveillance is sometimes stretched too far and that the benefits of data use are underestimated. Distinguishing legitimate from illegitimate surveillance remains contested.
+
+**Relevance for inclusion and exclusion.** Social services collect large amounts of personal data. Surveillance studies raise the question of how help and control are connected and how addressees' rights can be protected.
+
+**Key reading:** Lyon, D. (Ed.) (2003): *Surveillance as Social Sorting.* London: Routledge. · Zuboff, S. (2019): *The Age of Surveillance Capitalism.* New York: PublicAffairs.
 :::
 
 ::: {.placeholder}

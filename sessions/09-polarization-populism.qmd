@@ -24,12 +24,110 @@ This session deals with polarisation and political developments that create new 
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Social Fragmentation
-- Populism and Nationalism
-- Social Identity
-- Liquid Modernity (Zygmunt Bauman)
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Social Fragmentation]{.theory-link data-theory="frag"}
+- [Populism and Nationalism]{.theory-link data-theory="pop"}
+- [Social Identity]{.theory-link data-theory="sit"}
+- [Liquid Modernity (Zygmunt Bauman)]{.theory-link data-theory="liquid"}
 :::
 
+:::
+
+::: {#theory-frag .theory-panel}
+### Social Fragmentation
+
+**Core idea.** Many observers diagnose a growing fragmentation and polarisation of societies: groups seem to drift apart in values, lifestyles and political views. Sociological research asks how far this diagnosis is accurate and where conflicts actually arise.
+
+**Aim of the theory.** To analyse the causes and forms of social division and their consequences for cohesion and inclusion.
+
+**Key claims**
+
+- Polarisation can concern opinions, but also emotions towards other groups (**affective polarisation**).
+- Andreas Reckwitz describes a society of singularities, in which a new educated middle class and an old middle class and lower class drift apart.
+- Steffen Mau, Thomas Lux and Linus Westheuser find for Germany that society is less polarised than often assumed, but that certain "trigger points" provoke strong conflicts.
+- Digital media and political entrepreneurs can intensify divisions.
+- Fragmentation can make inclusion harder, because shared institutions and spaces lose importance.
+
+**Key concepts:** polarisation · affective polarisation · fragmentation · trigger points · cohesion
+
+**Criticism.** The diagnosis of a divided society is itself contested; some research shows high agreement on many issues. Talk of division can also become a self-fulfilling prophecy.
+
+**Relevance for inclusion and exclusion.** The concept helps to understand conflicts over migration, gender or climate. Social work operates in polarised settings and can foster encounters and dialogue.
+
+**Key reading:** Mau, S./Lux, T./Westheuser, L. (2023): *Triggerpunkte: Konsens und Konflikt in der Gegenwartsgesellschaft.* Berlin: Suhrkamp. · Reckwitz, A. (2020): *The Society of Singularities.* Cambridge: Polity.
+:::
+
+::: {#theory-pop .theory-panel}
+### Populism and Nationalism
+
+**Core idea.** Populism and nationalism draw boundaries of belonging. According to Cas Mudde's widely used definition, populism is a thin ideology that divides society into a "pure people" and a "corrupt elite". In combination with nationalism and nativism, it defines who belongs to "the people" and who is excluded.
+
+**Aim of the theory.** To understand how political movements construct belonging and exclusion and why they gain support.
+
+**Key claims**
+
+- Populism claims that politics should express the general will of "the people".
+- Jan-Werner Müller emphasises its **anti-pluralism**: populists claim to be the only true representatives of the people.
+- Nationalism understands the nation as a community; Benedict Anderson describes nations as **imagined communities**.
+- Radical right populism combines populism with **nativism**: the idea that the state should be inhabited only by members of the native group.
+- Exclusionary politics often target migrants, minorities and "undeserving" groups.
+
+**Key concepts:** thin ideology · people vs. elite · anti-pluralism · imagined communities · nativism · ethnic and civic nationalism
+
+**Criticism.** The concept of populism is very broad and politically charged. There is debate about whether its rise is driven mainly by economic or by cultural factors.
+
+**Relevance for inclusion and exclusion.** Populism and nationalism shape public discourse on migration, social benefits and minorities. Social work must deal with exclusionary attitudes among addressees and in society.
+
+**Key reading:** Mudde, C./Rovira Kaltwasser, C. (2017): *Populism: A Very Short Introduction.* Oxford: Oxford University Press. · Anderson, B. (1983): *Imagined Communities.* London: Verso.
+:::
+
+::: {#theory-sit .theory-panel}
+### Social Identity · Henri Tajfel, John C. Turner
+
+**Core idea.** People define themselves not only as individuals, but also as members of groups. According to social identity theory, part of our self-esteem comes from these group memberships. This is why people tend to favour their own group and to devalue others.
+
+**Aim of the theory.** To explain intergroup behaviour, prejudice and discrimination from a social psychological perspective.
+
+**Key claims**
+
+- **Social categorisation**: people sort themselves and others into groups.
+- **Social identification**: they adopt the identity of the group they belong to.
+- **Social comparison**: groups compare themselves with other groups in order to achieve a positive distinctiveness.
+- Minimal group experiments showed that even arbitrary group divisions lead to ingroup favouritism.
+- When status is perceived as threatened, conflicts between groups can intensify.
+
+**Key concepts:** categorisation · identification · comparison · ingroup and outgroup · positive distinctiveness · minimal group paradigm
+
+**Criticism.** Critics argue that the theory underestimates structural and economic causes of conflict and focuses too much on cognitive processes.
+
+**Relevance for inclusion and exclusion.** The theory explains how "us" and "them" boundaries arise and why populist mobilisation often works through identity. It also points to ways of reducing prejudice, for example through contact and shared identities.
+
+**Key reading:** Tajfel, H./Turner, J. C. (1979): An Integrative Theory of Intergroup Conflict. In: Austin, W. G./Worchel, S. (Eds.): *The Social Psychology of Intergroup Relations.* Monterey: Brooks/Cole, 33–47.
+:::
+
+::: {#theory-liquid .theory-panel}
+### Liquid Modernity · Zygmunt Bauman
+
+**Core idea.** Modern societies have changed from a "solid" to a "liquid" form. Stable institutions, life-long careers and secure communities lose their binding power. Individuals must constantly adapt and bear risks alone, which creates widespread insecurity.
+
+**Aim of the theory.** To diagnose the experience of uncertainty in contemporary societies and its consequences for belonging and exclusion.
+
+**Key claims**
+
+- In liquid modernity, social forms do not last long enough to provide stable orientation.
+- Responsibility for success and failure is **individualised**.
+- Consumer society divides people into successful consumers and "flawed consumers".
+- In *Wasted Lives*, Bauman describes people who are seen as superfluous, such as refugees and the long-term unemployed.
+- Insecurity can be channelled into fear of strangers and demands for security and closure.
+
+**Key concepts:** liquid vs. solid modernity · individualisation · insecurity · flawed consumers · wasted lives · strangers
+
+**Criticism.** Bauman's work is criticised as essayistic and empirically thin. Some argue that it overgeneralises and neglects persistent structures and differences between societies.
+
+**Relevance for inclusion and exclusion.** The approach links insecurity with exclusionary attitudes. It helps to understand why people who feel insecure may turn against those seen as "outsiders".
+
+**Key reading:** Bauman, Z. (2000): *Liquid Modernity.* Cambridge: Polity. · Bauman, Z. (2004): *Wasted Lives: Modernity and Its Outcasts.* Cambridge: Polity.
 :::
 
 ::: {.placeholder}

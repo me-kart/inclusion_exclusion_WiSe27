@@ -25,12 +25,110 @@ This session explores the social dimensions of the ecological crisis: how enviro
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Key theories and concepts
 
-- Environmental Justice (Robert Bullard)
-- Climate Justice
-- Environmental Racism
-- Climate Migration
+[Click on a theory to read a short introduction below.]{.theory-hint}
+
+- [Environmental Justice (Robert Bullard)]{.theory-link data-theory="ej"}
+- [Climate Justice]{.theory-link data-theory="cj"}
+- [Environmental Racism]{.theory-link data-theory="er"}
+- [Climate Migration]{.theory-link data-theory="cm"}
 :::
 
+:::
+
+::: {#theory-ej .theory-panel}
+### Environmental Justice · Robert Bullard
+
+**Core idea.** Environmental burdens are not distributed randomly. Landfills, toxic waste sites and polluting industries are disproportionately located in poor neighbourhoods and communities of colour. Robert Bullard's research in the USA helped found the environmental justice movement and its scholarly analysis.
+
+**Aim of the theory.** To show that environmental problems are social problems and to demand equal protection and participation for all communities.
+
+**Key claims**
+
+- Environmental risks follow existing lines of social inequality, especially race and class.
+- Disadvantaged communities have less political power to resist the siting of harmful facilities.
+- Environmental justice includes **distributive justice** (who bears burdens and benefits), **procedural justice** (who participates in decisions) and **recognition** (whose knowledge and needs count).
+- Protests in Warren County, North Carolina (1982) against a toxic waste landfill are seen as a starting point of the movement.
+- Environmental justice is now also applied globally, for example to waste exports and resource extraction.
+
+**Key concepts:** distributive, procedural and recognition justice · environmental burdens · community participation · grassroots movement
+
+**Criticism.** The concept was developed mainly in the US context and must be adapted to other societies. Measuring the causal link between discrimination and environmental burdens is methodologically demanding.
+
+**Relevance for inclusion and exclusion.** Environmental justice shows that exclusion also takes place through living conditions, health and space. For social work, environmental conditions in neighbourhoods are part of addressees' life situations.
+
+**Key reading:** Bullard, R. D. (1990): *Dumping in Dixie: Race, Class, and Environmental Quality.* Boulder: Westview Press. · Schlosberg, D. (2007): *Defining Environmental Justice.* Oxford: Oxford University Press.
+:::
+
+::: {#theory-cj .theory-panel}
+### Climate Justice
+
+**Core idea.** Those who contributed least to climate change are often hit hardest by its consequences. Climate justice links climate change to questions of global and intergenerational justice and asks who bears responsibility and who bears the costs.
+
+**Aim of the theory.** To frame climate change not only as an environmental or technical problem, but as a question of justice and human rights.
+
+**Key claims**
+
+- Historical emissions come mainly from industrialised countries of the Global North.
+- Poorer countries and groups are more vulnerable and have fewer resources to adapt.
+- International climate policy recognises **common but differentiated responsibilities**.
+- Debates concern mitigation, adaptation, finance and **loss and damage**; a fund for loss and damage was agreed at COP27 in 2022.
+- Climate justice also includes **intergenerational justice**: future generations bear the consequences of today's emissions.
+
+**Key concepts:** historical responsibility · vulnerability · common but differentiated responsibilities · loss and damage · intergenerational justice
+
+**Criticism.** There is controversy over how to allocate responsibility (by historical emissions, current emissions or per capita) and how to balance climate protection with development needs. Climate policy measures themselves can also burden poorer households.
+
+**Relevance for inclusion and exclusion.** Climate justice links global inequality to everyday life: energy poverty, heat, housing and health. It asks social work to consider ecological dimensions of social inequality.
+
+**Key reading:** Roberts, J. T./Parks, B. C. (2007): *A Climate of Injustice.* Cambridge, MA: MIT Press. · Shue, H. (2014): *Climate Justice: Vulnerability and Protection.* Oxford: Oxford University Press.
+:::
+
+::: {#theory-er .theory-panel}
+### Environmental Racism
+
+**Core idea.** Environmental racism refers to policies and practices that expose racialised groups disproportionately to environmental hazards, whether intended or not. The term was coined in the context of the US civil rights movement in the 1980s.
+
+**Aim of the theory.** To name the racist dimension of environmental inequality and to link environmental struggles with anti-racist movements.
+
+**Key claims**
+
+- Race is a strong predictor of exposure to environmental hazards, in some studies stronger than income.
+- The 1987 report *Toxic Wastes and Race in the United States* documented this pattern for hazardous waste sites.
+- Environmental racism works through decisions on land use, housing segregation and unequal enforcement of environmental laws.
+- It need not be intentional; structural and institutional mechanisms are sufficient.
+- Globally, the concept is applied to waste exports, extraction on indigenous land and the externalisation of pollution to the Global South.
+
+**Key concepts:** environmental racism · racialised exposure · structural racism · segregation · racial capitalism
+
+**Criticism.** Critics discuss how to separate the effects of race and class. Some scholars argue that the concept should be linked more closely to analyses of capitalism and the state.
+
+**Relevance for inclusion and exclusion.** The concept connects this session with Session 2 (coloniality) and with institutional racism. It shows that racism also affects health and living environments.
+
+**Key reading:** United Church of Christ Commission for Racial Justice (1987): *Toxic Wastes and Race in the United States.* New York. · Pulido, L. (2017): Geographies of Race and Ethnicity II. *Progress in Human Geography* 41 (4), 524–533.
+:::
+
+::: {#theory-cm .theory-panel}
+### Climate Migration
+
+**Core idea.** Climate change affects human mobility, for example through droughts, floods, sea-level rise and loss of livelihoods. Climate migration describes movements in which environmental and climatic factors play a significant role.
+
+**Aim of the theory.** To understand the links between climate change and migration and the gaps in legal protection for those affected.
+
+**Key claims**
+
+- Most climate-related mobility takes place **within countries**, not across borders.
+- Migration is usually **multicausal**: climate factors interact with poverty, conflict and governance.
+- People displaced by climate change are generally not refugees under the 1951 Refugee Convention; there is a **protection gap**.
+- The poorest people may be "trapped" because they lack the resources to move.
+- World Bank projections suggest that tens of millions of people could become internal climate migrants by 2050 if no action is taken.
+
+**Key concepts:** climate-related displacement · internal migration · multicausality · protection gap · trapped populations · planned relocation
+
+**Criticism.** Terms such as "climate refugees" are criticised as legally imprecise and as feeding alarmist scenarios of mass migration. Numbers are difficult to estimate.
+
+**Relevance for inclusion and exclusion.** Climate migration links Sessions 5 and 6: environmental change becomes a new mechanism of exclusion, and legal status decides on protection.
+
+**Key reading:** World Bank (2021): *Groundswell Part 2: Acting on Internal Climate Migration.* Washington, DC: World Bank.
 :::
 
 ::: {.placeholder}
