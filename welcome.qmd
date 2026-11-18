@@ -12,13 +12,20 @@ date-format: "DD.MM.YYYY"
 ![](images/welcome-banner.svg){.welcome-banner fig-alt="Four circles showing exclusion, segregation, integration and inclusion: green dots outside the circle, in a separate circle, in a small circle inside, and finally mixed with all other dots."}
 :::
 
-Who belongs, who takes part, and on whose terms? In the seminar *International Perspectives on Inclusion and Exclusion*, we look at how societies draw these boundaries in schools, labour markets, citizenship law and social services, and how they do so differently from country to country.
+Who belongs, who takes part, and on whose terms? This course examines global inequalities, power relations and structural mechanisms that shape inclusion and exclusion, from global justice and postcolonialism to migration, welfare systems, climate change and digital transformation.
 
-This script accompanies the seminar. Here you will not only read: you will match, classify and recall. Take your time, try things out, and come back whenever you like.
+## Course goals
 
-## How to use this script
+After this course, you will be able to
 
-The script has three blocks: the foundations, ten seminar sessions and a practice section. You can reach all pages through the menu on the left.
+1. **explain** and critically reflect on international theories of inclusion, exclusion and global inequality,
+2. **analyse** the social, political, economic and ecological causes of exclusion,
+3. **examine** international developments from theoretical and comparative perspectives,
+4. **assess** how migration, digitalisation, climate change and global power relations affect participation,
+5. **evaluate** international strategies for social inclusion and justice,
+6. **discuss** how inclusive and just societies can be shaped.
+
+## Where to start
 
 ::: {.grid .welcome-cards}
 
@@ -27,7 +34,7 @@ The script has three blocks: the foundations, ten seminar sessions and a practic
 
 **Part I · [Foundations and Theoretical Approaches](part-1/01-00-introduction.qmd)**
 
-Chapter 1 introduces the topic, its history and the key terms, and discusses the dimensions, dynamics and normative foundations of inclusion and exclusion.
+Key terms, history and dimensions of inclusion and exclusion.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
@@ -35,7 +42,7 @@ Chapter 1 introduces the topic, its history and the key terms, and discusses the
 
 **Sessions · [Ten seminar sessions](index.qmd)**
 
-From global inequality and postcolonial perspectives to climate justice, AI and the question of inclusive societies.
+Two blocks: global perspectives and contemporary challenges.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
@@ -43,7 +50,7 @@ From global inequality and postcolonial perspectives to climate justice, AI and 
 
 **Practice · [Learning Games](03-learning-games.qmd)**
 
-A memory game and eight international cases to classify. About 20 minutes.
+Memory game and international cases.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
@@ -51,11 +58,11 @@ A memory game and eight international cases to classify. About 20 minutes.
 
 **Practice · [Learning Check](04-learning-check.qmd)**
 
-A short test of what you have retained.
+Test what you have learned.
 :::
 
 :::
 
 ## Transparency note
 
-AI was used to program the learning games, to draft questions, explanations and the texts of Chapter 1, and to create the illustration on this page. All content has been reviewed by the author, who is responsible for it.
+AI was used to program the learning games, to draft texts and explanations and to create the illustration on this page. All content has been reviewed by the author, who is responsible for it.
